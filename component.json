@@ -1,0 +1,31 @@
+{
+  "name": "jsdc",
+  "description": "JSDC Blog",
+  "dependencies": {
+    "visionmedia/page.js": "^1.3.7"
+  },
+  "development": {},
+  "scripts": [
+    "src/scripts/main.js"
+  ],
+  "styles": [
+    "src/styles/normalize.css",
+    "src/styles/base.css",
+    "src/styles/topbar.css",
+    "src/styles/footer.css",
+    "src/styles/home-page.css",
+    "src/styles/article-list.css",
+    "src/styles/1024.css",
+    "src/styles/768.css",
+    "src/styles/600.css",
+    "src/styles/480.css"
+  ],
+  "images": [
+    "src/images/header-background.jpg",
+    "src/images/logo.png"
+  ],
+  "demo": [
+    "http://poying.me/med.js"
+  ],
+  "license": "MIT"
+}

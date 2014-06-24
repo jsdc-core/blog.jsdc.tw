@@ -1,0 +1,33 @@
+@media all and (max-width: 768px) {
+	.home-page-header-title {
+		margin-top: 3em;
+		font-size: 3.2rem;
+	}
+
+	.page-topbar-links {
+		position: absolute;
+		right: 24px;
+		top: 100%;
+		width: auto;
+		white-space: nowrap;
+		margin-top: 12px;
+	}
+
+	.page-topbar-link {
+		display: block;
+		margin-bottom: 12px;
+	}
+
+	.page-topbar-link > a {
+		display: inline-block;
+		line-height: 48px;
+		background: #fff;
+		padding: 0 12px;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+		opacity: 1;
+	}
+
+	.page-topbar-nav-toggle-button {
+		display: block;
+	}
+}

@@ -1,0 +1,40 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	color: #4e462f;
+	font-size: 1.4rem;
+	line-height: 1.5em;
+	margin-top: 62px;
+}
+
+a {
+  text-decoration: none;
+	color: #3d91bd;
+}
+
+.container {
+	position: relative;
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.underline {
+	position: relative;
+}
+
+.underline:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -4px;
+	width: 38%;
+	height: 2px;
+	background: #eee;
+	transition: width .4s;
+}
+
+.underline.green:after {
+	background: #bfd050;
+}
