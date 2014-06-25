@@ -1,0 +1,50 @@
+.post-page-article {
+	margin: 24px 0;
+}
+
+.post-page-article .article-title {
+	line-height: 3.3rem;
+}
+
+.post-page-article .article-authortime {
+	font-size: 1.2rem;
+	opacity: .5;
+}
+
+.post-page-article .article-entry {
+	line-height: 2.7rem;
+}
+
+.article-tags {
+	display: inline-block;
+  white-space: nowrap;
+}
+
+.article-tag {
+	margin-left: 12px;
+}
+
+.article-footer .container {
+	position: relative;
+	text-align: center;
+	padding: 24px 0;
+	margin: 48px 0 0;
+}
+
+.article-footer .container:before,
+.article-footer .container:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	height: 1px;
+	width: 100%;
+	background: linear-gradient(left, transparent, rgba(0, 0, 0, .08) 30%, rgba(0, 0, 0, .08) 70%, transparent);
+}
+
+.article-footer .container:before {
+	top: 0;
+}
+
+.article-footer .container:after {
+	bottom: 0;
+}

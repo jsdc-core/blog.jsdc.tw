@@ -16,6 +16,7 @@
     "src/styles/topbar.css",
     "src/styles/footer.css",
     "src/styles/home-page.css",
+    "src/styles/post.css",
     "src/styles/article-list.css",
     "src/styles/1024.css",
     "src/styles/768.css",
