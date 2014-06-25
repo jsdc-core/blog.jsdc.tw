@@ -12,7 +12,7 @@
 
 .post-page-article .article-main {
 	font-size: 1.8rem;
-	width: calc(100% - 340px);
+	width: calc(100% - 280px);
 }
 
 .post-page-article .article-sidebar {
@@ -42,7 +42,7 @@
 }
 
 .post-page-article .article-title {
-	line-height: 3.8rem;
+	line-height: 3.9rem;
 }
 
 .post-page-article .article-authortime {
@@ -53,6 +53,7 @@
 .article-tags {
 	display: inline-block;
   white-space: nowrap;
+	font-size: 1.2rem;
 }
 
 .article-tag {
