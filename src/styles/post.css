@@ -1,18 +1,53 @@
 .post-page-article {
+	display: flex;
+	flex-direction: row;
 	margin: 24px 0;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.post-page-article .article-sidebar {
+	width: 220px;
+}
+
+.post-page-article .article-main {
+	font-size: 1.8rem;
+	width: calc(100% - 340px);
+}
+
+.post-page-article .article-sidebar {
+	margin-top: 8px;
+	line-height: 2.0rem;
+}
+
+.post-page-article .article-table-of-contents ul {
+	opacity: .5;
+	transition: all .4s;
+}
+
+.post-page-article .article-table-of-contents ul:hover {
+	opacity: .8;
+}
+
+.post-page-article .article-table-of-contents li:hover a {
+	text-decoration: underline;
+}
+
+.post-page-article .article-entry {
+	line-height: 2.8rem;
+}
+
+.post-page-article .article-sidebar-title {
+	line-height: 3.2rem;
 }
 
 .post-page-article .article-title {
-	line-height: 3.3rem;
+	line-height: 3.8rem;
 }
 
 .post-page-article .article-authortime {
 	font-size: 1.2rem;
 	opacity: .5;
-}
-
-.post-page-article .article-entry {
-	line-height: 2.7rem;
 }
 
 .article-tags {
@@ -24,27 +59,11 @@
 	margin-left: 12px;
 }
 
-.article-footer .container {
-	position: relative;
-	text-align: center;
-	padding: 24px 0;
-	margin: 48px 0 0;
+.article-table-of-contents ul {
+	margin: 0 0 0 18px;
+	padding: 0;
 }
 
-.article-footer .container:before,
-.article-footer .container:after {
-	content: '';
-	position: absolute;
-	left: 0;
-	height: 1px;
-	width: 100%;
-	background: linear-gradient(left, transparent, rgba(0, 0, 0, .08) 30%, rgba(0, 0, 0, .08) 70%, transparent);
-}
-
-.article-footer .container:before {
-	top: 0;
-}
-
-.article-footer .container:after {
-	bottom: 0;
+.article-table-of-contents a {
+	color: inherit;
 }
