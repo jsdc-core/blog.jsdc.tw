@@ -5,12 +5,24 @@
 	}
 
 	.page-topbar-links {
+		display: none;
 		position: absolute;
-		right: 24px;
+		right: 0;
 		top: 100%;
 		width: auto;
 		white-space: nowrap;
 		margin-top: 12px;
+		opacity: 0;
+		transition: all .4s;
+	}
+
+	.page-topbar-links.display {
+		display: block;
+	}
+
+	.page-topbar-links.show {
+		opacity: 1;
+		right: 24px;
 	}
 
 	.page-topbar-link {
@@ -28,6 +40,11 @@
 	}
 
 	.page-topbar-nav-toggle-button {
-		display: block;
+		display: inline-block;
+		height: 62px;
+		width: 62px;
+		background: url(../images/menuicon.png) right center no-repeat;
+		cursor: pointer;
+		opacity: .5;
 	}
 }
