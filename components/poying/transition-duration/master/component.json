@@ -1,0 +1,13 @@
+{
+  "name": "transition-duration",
+  "description": "get css transition duration",
+  "version": "0.0.0",
+  "dependencies": {},
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "poying/transition-duration"
+}
