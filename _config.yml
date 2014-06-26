@@ -14,3 +14,20 @@ authors:
     email: poying.me@gmail.com
     github: poying
     google: 108574328493530489590
+
+menu:
+  - text: Home
+    href: /
+    page: home
+  - text: About
+    href: /about
+    page: about
+  - text: Design
+    href: /design
+    page: design
+  - text: Front-End
+    href: /front-end
+    page: front-end
+  - text: Node.js
+    href: /nodejs
+    page: nodejs

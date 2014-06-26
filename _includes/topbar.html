@@ -4,11 +4,13 @@
       <nav class="page-topbar-nav">
         <a class="page-topbar-nav-toggle-button"></a>
         <ul class="page-topbar-links">
-          <li class="page-topbar-link active"><a href="">Home</a>
-          <li class="page-topbar-link"><a href="">About</a>
-          <li class="page-topbar-link"><a href="">Design</a>
-          <li class="page-topbar-link"><a href="">Front-End</a>
-          <li class="page-topbar-link"><a href="">Node.js</a>
+          {% for item in site.menu %}
+            {% if item.page == page.type %}
+              <li class="page-topbar-link active"><a href="{{ item.href }}">{{ item.text }}</a>
+            {% else %}
+              <li class="page-topbar-link"><a href="{{ item.href }}">{{ item.text }}</a>
+            {% endif %}
+          {% endfor %}
         </ul>
       </nav>
     </div>
