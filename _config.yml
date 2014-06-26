@@ -6,7 +6,7 @@ pygments: true
 markdown: kramdown
 
 title:  JSDC Core Team 
-baseurl: http://blog.jsdc.tw
+url: "http://blog.jsdc.tw"
 
 authors:
   poying:
