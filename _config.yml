@@ -1,0 +1,16 @@
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+pygments: true
+
+markdown: kramdown
+
+title:  JSDC Core Team 
+baseurl: http://blog.jsdc.tw
+
+authors:
+  poying:
+    name: 陳柏穎
+    email: poying.me@gmail.com
+    github: poying
+    google: 108574328493530489590
