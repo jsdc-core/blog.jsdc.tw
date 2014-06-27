@@ -6,6 +6,7 @@ pygments: true
 markdown: kramdown
 
 title: JSDC Core Team 
+description: jsdccccc
 url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
