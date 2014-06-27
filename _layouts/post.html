@@ -1,0 +1,39 @@
+{% include head.html %}
+{% assign author = site.authors[page.author] %}
+
+<main role="main">
+  <div class="container clearfix">
+    <article class="article post-page-article">
+      <div class="article-sidebar">
+        <nav class="article-table-of-contents">
+          <h2 class="article-sidebar-title">Table of Contents</h2>
+          <ul>
+            {% for item in page.tableOfContents %}
+              <li><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+
+      <div class="article-main">
+
+        <header class="article-header">
+          <h2 class="article-title">page.title</h2>
+          <span class="article-authortime">By {{ author.name }} at {{ page.date | date_to_string }}</span>
+          <div class="article-tags">
+            {% for tag in page.tags %}
+              <a href="http://google.com/#q=site:{{ site.domain }}%20{{ tag }}" class="article-tag">#{{ tag }}</a>
+            {% endfor %}
+          </div>
+        </header>
+
+        <div class="article-entry">
+          {{ content }}
+        </div>
+
+      </div>
+    </article>
+  </div>
+</main>
+
+{% include foot.html %}

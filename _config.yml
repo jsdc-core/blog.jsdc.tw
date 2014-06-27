@@ -1,16 +1,23 @@
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: ["README.md", "Makefile"]
 pygments: true
 
 markdown: kramdown
 
-title:  JSDC Core Team 
-url: "http://blog.jsdc.tw"
+title: JSDC Core Team 
+url: http://blog.jsdc.tw
+domain: blog.jsdc.tw
+
+headline:
+  link: http://2014.jsdc.tw
+  title: Hello JSDC
+  description: description description description
 
 authors:
   poying:
     name: 陳柏穎
+    avatar: http://s.gravatar.com/avatar/de7c8319cc3164cfa8cefb703b0ccf94?s=80
     email: poying.me@gmail.com
     github: poying
     google: 108574328493530489590
@@ -20,7 +27,7 @@ menu:
     href: /
     page: home
   - text: About
-    href: /about
+    href: /#about
     page: about
   - text: Design
     href: /design

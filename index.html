@@ -1,0 +1,43 @@
+---
+layout: default
+type: home
+---
+
+<header class="home-page-header">
+  <a href="{{ site.headline.link }}">
+    <div class="container">
+      <span class="home-page-header-title">{{ site.headline.title }}</span>
+      <span class="home-page-header-description">{{ site.headline.description }}</span>
+      <span class="home-page-header-learnmore">Learn more</span>
+    </div>
+  </a>
+</header>
+
+<main role="main">
+  <section class="home-page-section home-page-article-list">
+    <div class="container">
+      <h2 class="home-page-section-title"><span class="underline green">Latest Articles</span></h2>
+
+      <ul class="article-list">
+        {% for post in site.posts %}
+          {% assign author = site.authors[post.author] %}
+          <li class="article-list-item">
+            <article class="article">
+              <a href="{{ post.url }}">
+                <img class="article-author-avatar" alt="author: {{ author.name }}" src="{{ author.avatar }}" />
+                <h3 class="article-titile">{{ post.title }}</h3>
+                <p>{{ post.description }}</p>
+              </a>
+            </article>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-page-section" id="about">
+    <div class="container">
+      {% include about.html %}
+    </div>
+  </section>
+</main>
