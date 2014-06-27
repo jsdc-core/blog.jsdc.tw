@@ -774,6 +774,10 @@ a {
 	margin-bottom: 24px;
 }
 
+.article-list-item a {
+	color: inherit;
+}
+
 .article {
 	position: relative;
 }
