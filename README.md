@@ -50,3 +50,10 @@ JSDC Blog
    $ git cherry-pic 剛剛那個hash
    ```
 
+## 補充
+
+### Theme
+
+* 前端模組化使用 `component.io`，沒有用他的 Local Dependency 機制，是為了避免門檻過高，但如果前端越來越複雜，可以考慮使用。
+* `component.io` 版本使用 1.0.0 以上版本（目前還在 rc）
+* 所有需要用到的 js、css、圖片都要到 `component.json` 中設定
