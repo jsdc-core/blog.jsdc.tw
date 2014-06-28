@@ -1,4 +1,4 @@
-CPN := component
+CPN := node_modules/.bin/component
 UGLIFY := uglifyjs
 
 build:
