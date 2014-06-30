@@ -1,4 +1,5 @@
 ---
+title: JSDC 新 。Blog 公布
 layout: post
 author: poying
 description: Hello, welcome to JSDC Awesome world.
