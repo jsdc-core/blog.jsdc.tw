@@ -17,7 +17,7 @@
       <div class="article-main">
 
         <header class="article-header">
-          <h2 itemprop="name" class="article-title">page.title</h2>
+          <h2 itemprop="name" class="article-title">{{ page.title }}</h2>
           <div class="article-authortime">By <span itemprop="author">{{ author.name }}</span> at <time itemprop="datePublished">{{ page.date | date_to_string }}</time></div>
           <div class="article-tags">
             {% for tag in page.tags %}
