@@ -1,6 +1,6 @@
 ---
-title: JSDC 新 。Blog 公布
 layout: post
+title: JSDC 新 。Blog 公布
 author: poying
 description: Hello, welcome to JSDC Awesome world.
 tags:
@@ -18,8 +18,10 @@ JSDC 新 。Blog 公布
 
 歷經一個星期，終於把 Blog 規格重新整理過，不過 JSDC 持續秉持著 scrum 的精神，所以這個佈景主題還是會持續改動，相信各位也很期待 JSDC 今年會有什麼不同，還有什麼資料。還請大家多多指教。
 
-```javascript
+{% highlight javascript %}
+
 console.log(jsdc instanceof AwesomeConference); // true
-```
+
+{% endhighlight %}
 
 Hello JSDC World!!!
