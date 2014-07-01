@@ -1,11 +1,11 @@
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 
 exclude: ["README.md", "Makefile"]
 pygments: true
 
 markdown: kramdown
 
-title: JSDC Core Team 
+title: JSDC Core Team
 description: jsdccccc
 url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
@@ -22,6 +22,11 @@ authors:
     email: poying.me@gmail.com
     github: poying
     google: 108574328493530489590
+  clonncd:
+    name: Caesar Chi
+    avatar: http://d13pix9kaak6wt.cloudfront.net/avatar/users/c/l/o/clonn_1397203194_17.jpeg
+    email: clonncd@gmail.com
+    github: clonncd
 
 menu:
   - text: Home
