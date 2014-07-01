@@ -6,14 +6,14 @@ pygments: true
 markdown: kramdown
 
 title: JSDC Core Team
-description: jsdccccc
+description: jsdc is JavaScript developer Community / Conference
 url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
 headline:
   link: http://2014.jsdc.tw
-  title: Hello JSDC
-  description: description description description
+  title: console.log(JSDC)
+  description: This is JS way to developing.
 
 authors:
   poying:
