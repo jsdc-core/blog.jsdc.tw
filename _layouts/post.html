@@ -19,7 +19,7 @@
 
         <header class="article-header">
           <h2 itemprop="name" class="article-title">{{ page.title }}</h2>
-          <div class="article-authortime">By <span itemprop="author">{{ author.name }}</span> at <time itemprop="datePublished">{{ page.date | date_to_string }}</time></div>
+          <span class="article-authortime">By <span itemprop="author">{{ author.name }}</span> at <time itemprop="datePublished">{{ page.date | date_to_string }}</time></span>
           <div class="article-tags">
             {% for tag in page.tags %}
               <a href="http://google.com/#q=site:{{ site.domain }}%20{{ tag }}" class="article-tag">#{{ tag }}</a>
