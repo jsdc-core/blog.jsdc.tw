@@ -3,7 +3,7 @@ layout: post
 title: 導入快速開發，打造出上等程式品質
 author: smlsun
 description: 快速開發，同時打造高品質程式，如何在這兩者間兼容且並行前進，都在本篇中一一介紹
-image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10498640_533783346727183_7443524669347072895_o.jpg
+image: https://smartbear.com/SmartBear/media/images/Solutions/code-review-developer.png
 tags:
   - 專家介紹
   - 程式開發
@@ -13,6 +13,8 @@ tableOfContents:
   - text: 程式開發
     link: #程式開發
 ---
+
+![程式碼驗證](https://smartbear.com/SmartBear/media/images/Solutions/code-review-developer.png)
 
 ## 內容大綱
 
