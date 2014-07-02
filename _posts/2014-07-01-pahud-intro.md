@@ -3,6 +3,7 @@ layout: post
 title: 募集最強高併發架構 邁向互聯網的偉大航道
 author: andreayang
 description: 募集最強高併發架構 邁向互聯網的偉大航道
+image: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10498640_533783346727183_7443524669347072895_o.jpg
 tags:
   - news
   - 活動

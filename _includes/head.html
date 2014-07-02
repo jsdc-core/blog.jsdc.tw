@@ -4,15 +4,19 @@
   <meta name="viewport" content="width=device-width">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
   {% if page.type == 'post' %}
   {% assign author = site.authors[page.author] %}
   <meta name="author" content="{{ author.name }}">
   {% endif %}
   {% if page.description %}
   <meta itemprop="description" content="{{ page.description }}">
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:title" content="{{ page.title }}" />
   {% endif %}
   {% if page.image %}
   <meta itemprop="image" content="{{ page.image }}">
+  <meta property="og:image" content="{{ page.image }}" />
   {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/rss.xml">
   {% if page.type == 'home' %}
