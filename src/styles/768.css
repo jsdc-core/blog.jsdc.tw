@@ -1,0 +1,21 @@
+@media all and (max-width: 768px) {
+	.home-page-header-title,
+	.home-page-header-learnmore,
+	.home-page-header-description {
+		display: block;
+		position: relative;
+		left: 0;
+		top: 0;
+		margin: 0;
+		text-align: center;
+	}
+
+	.home-page-header-learnmore,
+	.home-page-header-description {
+		margin-top: 1em;
+	}
+
+	.home-page-header-title {
+		margin-top: 1em;
+	}
+}

@@ -1,0 +1,16 @@
+@media all and (max-width: 600px) {
+	.article-list-item {
+		width: 100%;
+	}
+
+	.home-page-header-learnmore,
+	.home-page-header-description {
+		font-size: 1.4rem;
+		margin-top: 1em;
+	}
+
+	.home-page-header-title {
+		margin-top: 2em;
+		font-size: 4.8rem;
+	}
+}

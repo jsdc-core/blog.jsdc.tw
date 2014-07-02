@@ -1,0 +1,94 @@
+.home-page-header {
+	position: relative;
+	height: 400px;
+	background: url(../images/header-background.jpg) center center no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.home-page-header:after {
+	content: '';
+	position: absolute;
+	z-index: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 61%;
+	background: linear-gradient(top, transparent, #fff);
+}
+
+.home-page-header .container {
+	height: 100%;
+}
+
+.home-page-header-learnmore,
+.home-page-header-description {
+	color: #4e462f;
+}
+
+.home-page-header-title,
+.home-page-header-learnmore,
+.home-page-header-description {
+	position: absolute;
+	z-index: 1;
+	right: 0;
+	top: 50%;
+	height: 1.5em;
+	line-height: 1.5em;
+}
+
+.home-page-header-title {
+	height: 1.5em;
+	line-height: 1.5em;
+	font-size: 7.2rem;
+	margin-top: -2em;
+}
+
+.home-page-header-learnmore {
+	right: 2.4em;
+	margin-top: 3em;
+	opacity: .5;
+	transition: all .4s;
+}
+
+.home-page-header-learnmore:after {
+	content: '〉';
+	font-size: .75em;
+	margin-left: .5em;
+}
+
+.home-page-header-learnmore:hover {
+	opacity: 1;
+}
+
+.home-page-header-description {
+	font-size: 1.8rem;
+	right: 1.5em;
+	margin-top: -1em;
+}
+
+.home-page-article-list {
+	margin-top: -120px;
+}
+
+.home-page-section .container {
+	padding-bottom: 48px;
+}
+
+.home-page-section .container:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 1px;
+	width: 100%;
+	background: linear-gradient(left, transparent, rgba(0, 0, 0, .08) 30%, rgba(0, 0, 0, .08) 70%, transparent);
+}
+
+.home-page-section-title {
+	margin: 72px 0 48px;
+}
+
+.home-page-section:hover .home-page-section-title .underline:after {
+	width: 100%;
+}
