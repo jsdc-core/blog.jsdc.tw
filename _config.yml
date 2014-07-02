@@ -24,13 +24,19 @@ authors:
     google: 108574328493530489590
   andreayang:
     name: Andrea Yang
-    avatar: http://www.gravatar.com/avatar/12a7b319f1db27d075682ffabf60dcf6.png
+    avatar: http://www.gravatar.com/avatar/12a7b319f1db27d075682ffabf60dcf6?s=80
     email: liebeand@gmail.com
   clonncd:
     name: Caesar Chi
     avatar: http://d13pix9kaak6wt.cloudfront.net/avatar/users/c/l/o/clonn_1397203194_17.jpeg
     email: clonncd@gmail.com
     github: clonncd
+  smlsun:
+    name: 謝宗穎
+    avatar: http://s.gravatar.com/avatar/b1cdc474586380022434865434fb0554?s=80
+    email: smlsun@gmail.com
+    github: smlsunxie
+    google: 114562460176368030377
 
 menu:
   - text: Home
