@@ -23,14 +23,14 @@ authors:
     github: poying
     google: 108574328493530489590
   andreayang:
+    name: Andrea Yang
+    avatar: https://cdn4.iconfinder.com/data/icons/avatar-and-user/77/Avatar_person_user_character_man_woman_human-03-512.png
+    email: liebeand@gmail.com
+  clonncd:
     name: Caesar Chi
     avatar: http://d13pix9kaak6wt.cloudfront.net/avatar/users/c/l/o/clonn_1397203194_17.jpeg
     email: clonncd@gmail.com
     github: clonncd
-  clonncd:
-    name: Andrea Yang
-    avatar: https://cdn4.iconfinder.com/data/icons/avatar-and-user/77/Avatar_person_user_character_man_woman_human-03-512.png
-    email: liebeand@gmail.com
 
 menu:
   - text: Home
