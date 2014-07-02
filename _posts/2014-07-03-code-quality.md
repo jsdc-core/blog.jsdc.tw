@@ -94,14 +94,6 @@ CI 用比較傳統的程式建置流程來看，不外乎開發、編譯、測�
 
 寫測試可以看成最微觀的測試，從測試過程的累積，自然而然就可以達到導入整合 ci。
 
----
-
-除了學習還有更多架構及知識面，歡迎到[華山論劍開發者論壇](https://ticket.aotter.net/76)上，透過站在巨人的肩膀上，找到最適合自己的著力點，跟著大家一起討論。
-
-###活動報名
-
- * [華山論劍，報名連結](https://ticket.aotter.net/76)
-
 
 [The Joel Test][2]
 [何謂Continuous Integration][3]
@@ -110,3 +102,11 @@ CI 用比較傳統的程式建置流程來看，不外乎開發、編譯、測�
   [1]: https://lh6.googleusercontent.com/-kHmKj9EoO1E/U6Kyq0QI_aI/AAAAAAAAOZw/q4_tkI4DCxg/s0/continuous-integration-design-process.png "continuous-integration-design-process.png"
   [2]: http://www.joelonsoftware.com/articles/fog0000000043.html
   [3]: https://www.ptt.cc/bbs/Soft_Job/M.1390977011.A.FC1.html
+
+---
+
+除了學習還有更多架構及知識面，歡迎到[華山論劍開發者論壇](https://ticket.aotter.net/76)上，透過站在巨人的肩膀上，找到最適合自己的著力點，跟著大家一起討論。
+
+###活動報名
+
+ * [華山論劍，報名連結](https://ticket.aotter.net/76)
