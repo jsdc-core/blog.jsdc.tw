@@ -565,7 +565,7 @@ a {
 .home-page-header {
 	position: relative;
 	height: 400px;
-	background: url(jsdc/src/images/header-background.jpg) center center no-repeat;
+	background: url(jsdc/src/images/header-background.jpg) top center no-repeat;
 	background-size: cover;
 	overflow: hidden;
 }
@@ -577,7 +577,7 @@ a {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	height: 61%;
+	height: 80%;
 	background: -webkit-linear-gradient(top, transparent, #fff);
 	background: linear-gradient(top, transparent, #fff);
 }
@@ -607,6 +607,8 @@ a {
 	line-height: 1.5em;
 	font-size: 7.2rem;
 	margin-top: -2em;
+	color: #fff;
+	text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
 }
 
 .home-page-header-learnmore {
@@ -634,116 +636,113 @@ a {
 }
 
 .home-page-article-list {
-	margin-top: -120px;
+	margin-top: -24px;
 }
 
-.home-page-section .container {
-	padding-bottom: 48px;
-}
-
-.home-page-section .container:after {
-	content: '';
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	height: 1px;
-	width: 100%;
-	background: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, .08) 30%, rgba(0, 0, 0, .08) 70%, transparent);
-	background: linear-gradient(left, transparent, rgba(0, 0, 0, .08) 30%, rgba(0, 0, 0, .08) 70%, transparent);
+.home-page-section {
+	padding: 48px;
 }
 
 .home-page-section-title {
-	margin: 72px 0 48px;
+	margin-bottom: 24px;
 }
 
 .home-page-section:hover .home-page-section-title .underline:after {
 	width: 100%;
 }
 
+.home-page-section.about-us {
+	background: #e9e8e9;
+}
+
 
 .post-page-article {
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-orient: horizontal;
-	-webkit-box-direction: normal;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
-	flex-direction: row;
-	margin: 24px 0;
-	-webkit-box-pack: justify;
-	-webkit-justify-content: space-between;
-	-ms-flex-pack: justify;
-	justify-content: space-between;
-	-webkit-flex-wrap: wrap;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin: 24px 0;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
 .post-page-article .article-sidebar {
-	width: 220px;
+  width: 220px;
 }
 
 .post-page-article .article-main {
-	font-size: 1.8rem;
-	width: -webkit-calc(100% - 280px);
-	width: calc(100% - 280px);
+  font-size: 1.8rem;
+  width: -webkit-calc(100% - 280px);
+  width: calc(100% - 280px);
 }
 
 .post-page-article .article-sidebar {
-	margin-top: 8px;
-	line-height: 2.0rem;
+  margin-top: 8px;
+  line-height: 2.0rem;
 }
 
 .post-page-article .article-table-of-contents ul {
-	opacity: .5;
-	-webkit-transition: all .4s;
-	transition: all .4s;
+  opacity: .5;
+  -webkit-transition: all .4s;
+  transition: all .4s;
 }
 
 .post-page-article .article-table-of-contents ul:hover {
-	opacity: .8;
+  opacity: .8;
 }
 
 .post-page-article .article-table-of-contents li:hover a {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .post-page-article .article-entry {
-	line-height: 2.8rem;
+  line-height: 2.8rem;
+}
+
+.post-page-article .article-entry img {
+  width: 100%;
 }
 
 .post-page-article .article-sidebar-title {
-	line-height: 3.2rem;
+  line-height: 3.2rem;
 }
 
 .post-page-article .article-title {
-	line-height: 3.9rem;
+  line-height: 3.9rem;
 }
 
 .post-page-article .article-authortime {
-	font-size: 1.2rem;
-	opacity: .5;
+  font-size: 1.2rem;
+  opacity: .5;
 }
 
 .article-tags {
-	display: inline-block;
+  display: inline-block;
   white-space: nowrap;
-	font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .article-tag {
-	margin-left: 12px;
+  margin-left: 12px;
 }
 
 .article-table-of-contents ul {
-	margin: 0 0 0 18px;
-	padding: 0;
+  margin: 0 0 0 18px;
+  padding: 0;
 }
 
 .article-table-of-contents a {
-	color: inherit;
+  color: inherit;
 }
 
 

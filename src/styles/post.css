@@ -1,70 +1,74 @@
 .post-page-article {
-	display: flex;
-	flex-direction: row;
-	margin: 24px 0;
-	justify-content: space-between;
-	flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  margin: 24px 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .post-page-article .article-sidebar {
-	width: 220px;
+  width: 220px;
 }
 
 .post-page-article .article-main {
-	font-size: 1.8rem;
-	width: calc(100% - 280px);
+  font-size: 1.8rem;
+  width: calc(100% - 280px);
 }
 
 .post-page-article .article-sidebar {
-	margin-top: 8px;
-	line-height: 2.0rem;
+  margin-top: 8px;
+  line-height: 2.0rem;
 }
 
 .post-page-article .article-table-of-contents ul {
-	opacity: .5;
-	transition: all .4s;
+  opacity: .5;
+  transition: all .4s;
 }
 
 .post-page-article .article-table-of-contents ul:hover {
-	opacity: .8;
+  opacity: .8;
 }
 
 .post-page-article .article-table-of-contents li:hover a {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .post-page-article .article-entry {
-	line-height: 2.8rem;
+  line-height: 2.8rem;
+}
+
+.post-page-article .article-entry img {
+  width: 100%;
 }
 
 .post-page-article .article-sidebar-title {
-	line-height: 3.2rem;
+  line-height: 3.2rem;
 }
 
 .post-page-article .article-title {
-	line-height: 3.9rem;
+  line-height: 3.9rem;
 }
 
 .post-page-article .article-authortime {
-	font-size: 1.2rem;
-	opacity: .5;
+  font-size: 1.2rem;
+  opacity: .5;
 }
 
 .article-tags {
-	display: inline-block;
+  display: inline-block;
   white-space: nowrap;
-	font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .article-tag {
-	margin-left: 12px;
+  margin-left: 12px;
 }
 
 .article-table-of-contents ul {
-	margin: 0 0 0 18px;
-	padding: 0;
+  margin: 0 0 0 18px;
+  padding: 0;
 }
 
 .article-table-of-contents a {
-	color: inherit;
+  color: inherit;
 }
