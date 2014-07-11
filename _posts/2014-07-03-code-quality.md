@@ -93,7 +93,3 @@ tableOfContents:
   [4]: https://www.ptt.cc/bbs/Soft_Job/M.1390977011.A.FC1.html
 
 ---
-
-###著作權
-
-授權為 JSDC 及作者所有。有關任何文章以及資料授權請洽 hq [AT] jsdc.tw
