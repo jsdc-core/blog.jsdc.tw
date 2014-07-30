@@ -2,9 +2,9 @@
 layout: post
 title: 側邊記錄 idea Tech Hackthon 活動記錄
 author: clonncd
-description: Hello, welcome to JSDC Awesome world.
+description: 相信大部分的文章都是在編寫對於本次活動結果，這邊就稍微從舉辦活動的觀點來談談，
+image: https://s3-ap-northeast-1.amazonaws.com/kkbox-registrano/upload_images/34114/img-main_large.png
 tags:
-  - news
   - 活動
   - 消息
   - 側錄
