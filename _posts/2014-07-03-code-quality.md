@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 導入快速開發，打造出上等程式品質
+title: 導入快速開發，工程師打造出上等程式品質祕技
 author: smlsun
 description: 快速開發，同時打造高品質程式，如何在這兩者間兼容且並行前進，都在本篇中一一介紹
 image: https://smartbear.com/SmartBear/media/images/Solutions/code-review-developer.png
