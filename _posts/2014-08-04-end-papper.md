@@ -26,4 +26,4 @@ tableOfContents:
 
 我們贊助持續招募中，歡迎直接 Email 與我們聯繫 [hq@jsdc.tw](mailto:hq@jsdc.tw)
 
-    [1]: http://2014.jsdc.tw/images/activity.jpg?tmp=20140617
+  [1]: http://2014.jsdc.tw/images/activity.jpg?tmp=20140617
