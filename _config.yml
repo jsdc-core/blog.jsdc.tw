@@ -37,6 +37,11 @@ authors:
     email: smlsun@gmail.com
     github: smlsunxie
     google: 114562460176368030377
+  jsdc:
+    name: JSDC team
+    avatar: http://cdn.inside.com.tw/wp-content/uploads/2012/04/website_logo.png
+    email: hq@jsdc.tw
+    github: jsdc-core
 
 menu:
   - text: Home
