@@ -685,6 +685,9 @@ a {
 
 .post-page-article .article-main {
   font-size: 1.8rem;
+}
+
+.article-main {
   width: calc(100% - 280px);
 }
 
@@ -835,6 +838,10 @@ a {
   .article-list-item {
     width: 48%;
   }
+
+  .article-main {
+    width: calc(100% - 280px);
+  }
 }
 
 
@@ -885,6 +892,10 @@ a {
     font-size: 3.2rem;
   }
 
+  .article-main{
+    width: 100%;
+  }
+
   .page-topbar-links {
     display: none;
     position: absolute;
@@ -930,6 +941,9 @@ a {
     cursor: pointer;
     opacity: .5;
   }
+  .article-sidebar {
+    display: none;
+  }
+
+
 }
-
-
