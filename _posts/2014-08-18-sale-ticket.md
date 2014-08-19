@@ -3,7 +3,7 @@ layout: post
 title: 早鳥票販售完畢，一般票即將販售
 author: jsdc
 description: 感謝各位支持 JSDC 2014 早鳥票已販售完畢，一般票即將開始販售
-image: http://2014.jsdc.tw/images/activity.jpg?tmp=20140617
+image: http://www.oranjeballondon.co.uk/wp-content/uploads/2013/08/earlybirdtickets1.jpg
 tags:
   - news
   - 活動
@@ -11,6 +11,8 @@ tableOfContents:
   - text: 訊息發佈
     link: #訊息發佈
 ---
+
+![image](http://www.oranjeballondon.co.uk/wp-content/uploads/2013/08/earlybirdtickets1.jpg)
 
 感謝各位對於  JSDC 2014 活動與支持，同時也特別感謝 [kktix](https://kktix.com/) 提供如此健全的服務，讓 JSDC 2014 早鳥票可以順利任務達成。
 
@@ -20,7 +22,7 @@ tableOfContents:
 
 ## 一般票販售
 
-一般票將於 29 August 開始進行販售，請各位持續鎖定 [kktix 售票亭](https://kktix.com/) ，以及持續鎖定 [2014 JSDC website](http://2014.jsdc.tw),  [JSDC Fans Page](https://www.facebook.com/JSDC.TW)
+一般票將於 **八月 29 日** 開始進行販售，請各位持續鎖定 [kktix 售票亭](http://jsdc-tw.kktix.cc/events/jsdc2014) ，以及持續鎖定 [2014 JSDC website](http://2014.jsdc.tw),  [JSDC Fans Page](https://www.facebook.com/JSDC.TW)
 
 ## 票種差異
 
@@ -28,15 +30,18 @@ tableOfContents:
 
 ### 早鳥票
 
-早鳥票，一份爲一人可參予，早期購入票價格，將會獲得 JSDC 紀念組合，此組合將會寄送至府中，讓全臺灣各地參予朋友都可以第一手時間收到物品，物品及二聯發票將會隨物品一併寄出。 JSDC 2014 報道當日時記得要帶着你的吊牌，以及資料來進行報道手續。
+早鳥票，一份爲一人可參與，早期購入票價格，將會獲得 JSDC 紀念組合，此組合將會寄送至府中，讓全臺灣各地參予朋友都可以第一手時間收到物品，物品及二聯發票將會隨物品一併寄出。 JSDC 2014 報道當日時記得要帶着你的吊牌，以及資料來進行報道手續。
 
 ### 一般票
 
-一般票，一份爲一人可參予，購入後透過 kktix 所寄出 QRCode 資訊，當 JSDC 當天時，進行報道手續，換取與會識別證，以及 JSDC 紀念品，將開立二聯式發票。
+一般票，一份爲一人可參與，購入後透過 kktix 所寄出 QRCode 資訊，當 JSDC 當天時，進行報道手續，換取與會識別證，以及 JSDC 紀念品，將開立二聯式發票。
 
 ### 企業票
 
-企業票，一份爲一人可參予，購入後透過 kktix 所寄出 QRCode 資訊，當 JSDC 當天時，進行報道手續，換取與會識別證，以及 JSDC 紀念品，將開立三聯式發票，方便企業提供報帳。
+企業票，一份爲一人可參與，購入後透過 kktix 所寄出 QRCode 資訊，當 JSDC 當天時，進行報道手續，換取與會識別證，以及 JSDC 紀念品，將開立三聯式發票，方便企業提供報帳。
+
+![image](http://img2.wikia.nocookie.net/__cb20110408184551/kungfupanda/images/9/93/ShifuGreen.JPG)
+[image resource](http://img2.wikia.nocookie.net/__cb20110408184551/kungfupanda/images/9/93/ShifuGreen.JPG)
 
 ## 關於 JSDC
 
