@@ -51,11 +51,20 @@ menu:
     href: /#about
     page: about
   - text: Design
-    href: /design
+    href: /2014/08/20/jsdc-design/
     page: design
+  - text: Angular.tw
+    href: http://www.fb.com/groups/augularjs.tw/
+    page: ng-tw
   - text: Front-End
-    href: /front-end
+    href: http://www.fb.com/groups/f2e.tw/
     page: front-end
+  - text: HTML5
+    href: http://www.fb.com/groups/htmlfive/
+    page: html5
+  - text: JS.tw
+    href: http://www.fb.com/groups/javascript.tw/
+    page: js-tw
   - text: Node.js
-    href: /nodejs
+    href: http://fb.com/groups/node.js.tw/
     page: nodejs
