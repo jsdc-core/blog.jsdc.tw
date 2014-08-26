@@ -52,6 +52,6 @@ substack 喜歡用 npm package.json 裡的 script 選項 + shell 作為構建工
     npm substack
 
 
-substack 就是這麼一個有趣的開發者，對於自己許多理念都實現於程式碼中，想要見到本人就肯定要參予 [JSDC 2014](http://2014.jsdc.tw)。
+substack 就是這麼一個有趣的開發者，對於自己許多理念都實現於程式碼中，想要見到本人就肯定要參與 [JSDC 2014](http://2014.jsdc.tw)。
 
 即將於 **8/29 （五）** 販售一般票，請大家密切注意 [JSDC 2014](http://2014.jsdc.tw)。

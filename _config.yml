@@ -44,7 +44,7 @@ authors:
     github: cyrilhong
   stanney:
     name: Stanney Yen
-    avatar: https://avatars0.githubusercontent.com/u/?v=2&s=80
+    avatar: https://avatars3.githubusercontent.com/u/12631?v=2&s=460
     email:  freehourse2sh@gmail.com
     github: Stanney
   jsdc:
@@ -60,6 +60,9 @@ menu:
   - text: About
     href: /#about
     page: about
+  - text: JSDC
+    href: http://2014.jsdc.tw
+    page: jsdc2014
   - text: Design
     href: /2014/08/20/jsdc-design/
     page: design
