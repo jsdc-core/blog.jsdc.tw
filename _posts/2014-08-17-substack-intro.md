@@ -1,7 +1,7 @@
 ---
 layout: post
 title: substack (James Halliday) 講者介紹專文, JSDC 2014
-author: jsdc
+author: stanney
 description: substack (James Halliday) 講者介紹專文, JSDC 2014 講者將親臨現場
 image: http://www.nodedublin.com/resources/images/substack.png
 tags:
