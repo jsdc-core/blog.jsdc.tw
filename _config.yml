@@ -60,6 +60,9 @@ menu:
   - text: About
     href: /#about
     page: about
+  - text: JSDC
+    href: http://2014.jsdc.tw
+    page: jsdc2014
   - text: Design
     href: /2014/08/20/jsdc-design/
     page: design
