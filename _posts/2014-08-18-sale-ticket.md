@@ -2,7 +2,7 @@
 layout: post
 title: 早鳥票販售完畢，一般票即將販售（票種說明）
 author: jsdc
-description: 感謝各位支持 JSDC 2014 早鳥票已販售完畢。內文
+description: 感謝各位支持 JSDC 2014 早鳥票已販售完畢！各票種說明及發售日期詳見內文。
 image: http://www.oranjeballondon.co.uk/wp-content/uploads/2013/08/earlybirdtickets1.jpg
 tags:
   - news
