@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JSDC 免費邀請票相關聲明
-author: cyrilhong
+author: jsdc
 description: JSDC 免費邀請票相關聲明
 image: http://jsdc.tw/images/activity.jpg?tmp=20140617
 tags:
