@@ -18,9 +18,9 @@ JSDC 連續第三年，這是一場由許多 JavaScript  愛好者，及各個�
 
 ## 關於邀請票轉售事件
 
-目前所有 **免費邀請票** 只有投稿者才會收到，關於近日發生 [JSDC 免費邀請票](http://jsdc-tw.kktix.cc/events/jsdc2014) 上網拍賣一事，主辦單位與相關人員聯繫確認後，此項目已經停止，並且將不會進行任何轉售，轉讓，贈與行爲。
+目前所有 **免費邀請票** 只有投稿者才會收到。關於近日發生 [JSDC 邀請票轉售事件](http://jsdc-tw.kktix.cc/events/jsdc2014)，主辦單位與相關人員已聯繫確認此事件已經落幕，不會再進行任何轉售、轉讓、贈與行爲。
 
-相信只是偶發狀況，之後如有相似狀況發生，煩請知悉者 **請勿購買**，並煩請來信通知 hq@jsdc.tw ，或者留言到 [JSDC fans page](https://www.facebook.com/JSDC.TW), [JSDC Twitter](https://twitter.com/jsdc_tw) ，我們將會第一時間進行處理。
+未來若有相似狀況發生，煩請知悉者 切勿購買，並請不吝來信通知 hq [AT] jsdc.tw ，或者留言到 [JSDC fans page](https://www.facebook.com/JSDC.TW), [JSDC Twitter](https://twitter.com/jsdc_tw) ，我們將會第一時間進行處理。
 
 ## 官方資訊
 
