@@ -2,7 +2,7 @@
 layout: post
 title:  技術轉換需知，學習 Node.js 的前期準備
 author: clonncd
-description: Node.js 教學延伸出來的導讀文章之一，也是每次在活動一開始的時候，就會跟大家介紹的這門技術的一個初探介紹部分。
+description: Node.js 教學延伸出來的導讀文章之一，也是每次在活動一開始的時候，就會跟大家介紹的這門技術的初探。
 image: http://code.danyork.com/files/2012/04/nodejs-logo.jpg
 tags:
   - news
@@ -16,7 +16,7 @@ tableOfContents:
 
 持續推廣 node.js 對於新手教學上，通常會遇到許多狀況，以及許多不同的迷思，總和出來其實可以看到一些常見的問題。
 
-這篇文章也是藉由數次的活動發想實踐當中，延伸出來的導讀文章之一，也是每次在活動一開始的時候，就會跟大家介紹的這門技術的一個初探介紹部分。
+這篇文章也是藉由數次的活動發想實踐當中，延伸出來的導讀文章之一，也是每次在活動一開始的時候，就會跟大家介紹的這門技術的初探。
 
 ## 學習之前，先學會忘記
 
@@ -32,13 +32,13 @@ tableOfContents:
 
 最近的趨勢是開始走向， Node.js 嘗試解決分散式系統架構，以及直接嵌入式系統中，所以意味着開始有許多不同的發展，也有發展出不同於 Web 的應用。
 
-## JavaScript 並不是 bala, bala, bala ...
+## JavaScript 並不是 blah, blah, blah ...
 
 講了許多過去歷史，雖然說大家已經開始試著要去忘記以往框架這件事情，但是我相信一開始還是做不到，這真的很難，但是請務必嘗試著，至少試著親手輸入每次的程式碼以及每次的相關測試，哪怕只是 hello world，跟着一起從頭開始進行所有流程。
 
-在開宗明義上，根大家說，Node.js 其實就是在寫  JavaScript ，拋棄以往對於所有瀏覽器上的謬誤，以及對於所謂  IE 或者其他瀏覽器上面可能發生的錯誤。現在開始所有的事情都發生在背後，全部的事情都是在伺服器裏面進行。
+在開宗明義上，跟大家說，Node.js 其實就是在寫  JavaScript ，拋棄以往對於所有瀏覽器上的謬誤，以及對於所謂  IE 或者其他瀏覽器上面可能發生的錯誤。現在開始所有的事情都發生在背後，全部的事情都是在伺服器裏面進行。
 
-所以可以說是，Node.js 程式編輯，其實是使用 JavaScript 爲基礎，透過 Google V8 engine (JavaScript interpreter) 進行後端程式的編譯。
+所以可以說是，Node.js 程式編輯，其實是使用 JavaScript 爲基礎，透過 Google V8 engine (JavaScript runtime) 進行後端程式的編譯。
 
 ## 非同步 ASYNC & 同步 SYNC
 
@@ -81,11 +81,11 @@ tableOfContents:
 	});
 
 	cook.getCoffee(function (coffee) {
-		return egg;
+		return coffee;
 	});
 
 	cook.getBread(function (bread) {
-		return egg;
+		return bread;
 	});
 
 {% endhighlight %}
@@ -133,16 +133,16 @@ console.log("start server");
 
 ## 後續討論
 
-大部分的人都會問，對於目前的項目有沒有可以建議的 FRAMEWORK ，或者問現在是否適合改變到 Node.js 進行改寫。首先這個問題，沒有絕對的答案，但是先問自己，
+大部分的人都會問，對於目前的項目有沒有可以建議的 Framework ，或者問現在是否適合改變到 Node.js 進行改寫。首先這個問題，沒有絕對的答案，但是先問自己，
 
  * 目前這個網站運作，有需要提高高承載量的需求?
  * 允許多久時間進行網站改寫，能否接受至少一個月沒有任何新進度？
 
 如果以上答案都是 `Y` ，那答案就在各位心中。
 
-在最近幾年其實 Node.js 已經有許多更多不同的變形，例如透過 node-webkit 可以進行 GUI 程式開發，透過 johnny-five 可以將 js 程式直接執行在 aduino 上面。甚至目前也有許多 robots 可以用 Node.js 進行程式開發。有人聽過 JavaScript 也可以寫音樂嗎？
+在最近幾年其實 Node.js 已經有許多更多不同的變形，例如透過 node-webkit 可以進行 GUI 程式開發，透過 johnny-five 可以將 js 程式直接執行在 arduino 上面。甚至目前也有許多 robots 可以用 Node.js 進行程式開發。有人聽過 JavaScript 也可以寫音樂嗎？
 
-因爲這些種種，我們必須承認 Node.js 的確對於 JavaScript 這門語言帶來巨大的震撼與改變。今年度 JSDC 2014 ，我們也特別規劃許多對於企業端，開發，JavaScript 最新流行趨勢的方向邀請各國講者來到臺灣。最精彩所有 JavaScript 頂尖技術全部都在 JSDC 2014
+因爲這些種種，我們必須承認 Node.js 的確對於 JavaScript 這門語言帶來巨大的震撼與改變。今年度 JSDC 2014 ，我們也特別規劃許多對於企業應用，模組開發，技術架構，及 JavaScript 最新流行趨勢的方向邀請各國講者來到臺灣。最精彩所有 JavaScript 頂尖技術全部都在 JSDC 2014
 
  * [JSDC 購買票網址](http://jsdc-tw.kktix.cc/events/jsdc2014)
  * [JSDC 2014 官方網站](http://2014.jsdc.tw/)
