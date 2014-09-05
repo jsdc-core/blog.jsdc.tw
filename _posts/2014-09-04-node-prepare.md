@@ -50,6 +50,8 @@ tableOfContents:
 
 如果使用 sync 的方式進行，我們的進行程序會變成
 
+{% highlight javascript %}
+
 	/*
 	1. 先開始煎蛋，直到蛋煎好了
 	2. 開始泡咖啡，直到咖啡煮開了
@@ -60,11 +62,13 @@ tableOfContents:
 	getCoffee();
 	getBread();
 
-
+{% endhighlight %}
 
 序列化的方式增加我們的準備時間，整個準備時間開始大幅增加，因爲每個執行序列都是一個一個完成後才開始執行。
 
 可是在現實世界裏面，我們會怎麼做？
+
+{% highlight javascript %}
 
 	* 開始煎蛋（做好了，再取蛋）
 	* 開始泡咖啡（泡好了，再拿咖啡）
@@ -84,6 +88,8 @@ tableOfContents:
 		return egg;
 	});
 
+{% endhighlight %}
+
 在執行 async process 當下，我們就`直接進行`了所有的事情，執行了所有方法一開始我們就並行了所有的程式，並不是一個一個等待，而真正完成時間我們並不知道，我們知道的是，這些事情其實都是同時並進。
 
 所以程式並不是一個等待一個，一個等待一個，而是一次性的併發出來，觸發之後再進行通知動作。
@@ -95,7 +101,7 @@ tableOfContents:
 
 最長舉的例子就是直接啓動一個新的服務器。
 
-<pre>
+{% highlight javascript %}
 
 var server = require("http");
 var fs = require("fs");
@@ -108,7 +114,8 @@ server.createServer(function (req, res){
 }).listen(3000);
 
 console.log("start server");
-</pre>
+
+{% endhighlight %}
 
 特別要說明的部分就是，大部分的程式都是採用類似的方式執行，注意 `createServer` 這個部分，裏面的匿名函式雖然宣告，但是並不是直接觸發，而是等到當有使用者登入伺服器的時候才會觸發這個事件。
 
@@ -140,6 +147,4 @@ console.log("start server");
  * [JSDC 購買票網址](http://jsdc-tw.kktix.cc/events/jsdc2014)
  * [JSDC 2014 官方網站](http://2014.jsdc.tw/)
 
-
 全文轉載於[技術轉換需知，學習 Node.js 的前期準備](http://blog.caesarchi.com/2014/09/nodejs_7.html)
-----------
