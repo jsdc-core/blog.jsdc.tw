@@ -141,4 +141,5 @@ console.log("start server");
  * [JSDC 2014 官方網站](http://2014.jsdc.tw/)
 
 
+全文轉載於[技術轉換需知，學習 Node.js 的前期準備](http://blog.caesarchi.com/2014/09/nodejs_7.html)
 ----------
