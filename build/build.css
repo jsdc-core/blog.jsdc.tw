@@ -817,7 +817,9 @@ a {
   margin: 0 0 6px;
 }
 
-
+h2 {
+  color: #b45f06;
+}
 @media all and (max-width: 1024px) {
   .container {
     width: auto;
