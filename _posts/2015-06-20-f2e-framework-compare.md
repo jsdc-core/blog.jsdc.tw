@@ -39,11 +39,11 @@ React 跟 Angular 整體的核心思維是相當不同的，React 特色在於�
 
 ## 新的選擇 - Aurelia
 
-[Aurelia](http://aurelia.io/) 或許可以說介於 React 和 Angular 兩者之間，[Aurelia](http://aurelia.io/) 目前為相當新秀的開發框架，他本身與 Angular 的資料綁定方式相當類似，不僅僅對 Angular 的開發者相當容易上手，安插在 HTML5 中的屬性也更加語意化。
+[Aurelia](http://aurelia.io/) 或許可以說介於 React 和 Angular 兩者之間，Aurelia 目前為相當新秀的開發框架，他本身與 Angular 的資料綁定方式相當類似，不僅僅對 Angular 的開發者相當容易上手，安插在 HTML5 中的屬性也更加語意化。
 
-[Aurelia](http://aurelia.io/) 的核心圍繞在模板上，因此他似乎同時擁有了 React 類似元件的觀念，又同時有 Angular 綁定資料的手法，算是相當多元，除此之外 [Aurelia](http://aurelia.io/) 對 ES6, ES7 擁有更高的支援度。
+[Aurelia](http://aurelia.io/) 的核心圍繞在模板上，因此他似乎同時擁有了 React 類似元件的觀念，又同時有 Angular 綁定資料的手法，算是相當多元，除此之外 Aurelia 對 ES6, ES7 擁有更高的支援度。
 
-當然目前 [Aurelia](http://aurelia.io/) 還在持續開發中，雖然版本尚未穩定，但是已經是個值得注目的前端框架，可以開始試著去執行，了解 [Aurelia](http://aurelia.io/) ，或許在現今 Single Page App 爆炸性成長的階段，[Aurelia](http://aurelia.io/) 能在未來佔有一席之地。
+當然目前 Aurelia 還在持續開發中，雖然版本尚未穩定，但是已經是個值得注目的前端框架，可以開始試著去執行，了解 Aurelia ，或許在現今 Single Page App 爆炸性成長的階段，[Aurelia](http://aurelia.io/) 能在未來佔有一席之地。
 
 也許未來 [JavaScript](http://2015.jsdc.tw/) 真的能夠做到前後端統一程式碼進行開發，也有可能踏入 hardware 開發領域，這都需要時間來證明，當然也需要各位的投入，就讓我們持續關注這個[世代的變化](http://2015.jsdc.tw/)吧。
 
