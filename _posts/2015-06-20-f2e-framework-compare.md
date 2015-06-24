@@ -39,7 +39,7 @@ React 跟 Angular 整體的核心思維是相當不同的，React 特色在於�
 
 ## 新的選擇 - Aurelia
 
-[[Aurelia](http://aurelia.io/)](http://[Aurelia](http://aurelia.io/).io/) 或許可以說介於 React 和 Angular 兩者之間，[Aurelia](http://aurelia.io/) 目前為相當新秀的開發框架，他本身與 Angular 的資料綁定方式相當類似，不僅僅對 Angular 的開發者相當容易上手，安插在 HTML5 中的屬性也更加語意化。
+[Aurelia](http://aurelia.io/) 或許可以說介於 React 和 Angular 兩者之間，[Aurelia](http://aurelia.io/) 目前為相當新秀的開發框架，他本身與 Angular 的資料綁定方式相當類似，不僅僅對 Angular 的開發者相當容易上手，安插在 HTML5 中的屬性也更加語意化。
 
 [Aurelia](http://aurelia.io/) 的核心圍繞在模板上，因此他似乎同時擁有了 React 類似元件的觀念，又同時有 Angular 綁定資料的手法，算是相當多元，除此之外 [Aurelia](http://aurelia.io/) 對 ES6, ES7 擁有更高的支援度。
 
