@@ -3,7 +3,7 @@ layout: post
 title: Facebook 釋出基於 Atom 的 IDE - nuclide
 author: itchina110
 description: 關於 nuclide 快速介紹。
-image: https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.2365-6/11414360_1436232903366096_731191817_n.jpg
+image: http://blog.jsdc.tw/src/images/post/11414345_431396967032756_1960320140_n.gif
 tags:
   - news
   - 消息
@@ -20,7 +20,7 @@ tableOfContents:
 
 當我被加入到這個私密項目中以後，非常驚喜，可惜的是，當我將這個包下載下來，安裝以後（其他他現在還是Atom的一個插件），發現並不支持React。通過後來認真閱讀他的介紹才知道，他目前還不支持React（後續有計劃）。
 
-![](http://img.w3ctech.com/11414345_431396967032756_1960320140_n.gif)
+![](http://blog.jsdc.tw/src/images/post/11414345_431396967032756_1960320140_n.gif)
 
 今天打開電腦發現，FB已經正式公開了nuclide這個項目，雖然已經公開了，不過目前還不支持React，官方的新聞中有提到這麼一段，所以還需要繼續等待：
 
