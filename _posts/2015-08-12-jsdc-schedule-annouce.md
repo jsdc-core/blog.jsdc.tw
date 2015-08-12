@@ -20,6 +20,8 @@ tableOfContents:
 
 對於各位模糊許久的 ES6 Flow control 以及 Generator Workshop 特別邀請 [Co](https://github.com/tj/co) 套件核心作者 Jonathan 進行教學。
 
+![](https://cldup.com/KHnA7j_-Td.png)
+
 [JSDC 2015](http://jsdc-tw.kktix.cc/events/jsdc2015),  從 JavaScript 開發 Webiste, RWD, 到 Mobile ，Iot 到 JavaScript TDD 概念及開發經驗分享。許多關於本年度最新的 [JavaScript 精采內容](http://jsdc-tw.kktix.cc/events/jsdc2015)，千萬別錯過。
 
 以及更多更多 ... 詳細內容都在，
