@@ -26,7 +26,7 @@ tableOfContents:
 
 以及更多更多 ... 詳細內容都在，
 
- * [JSDC 2015 議程表](http://2015.jsdc.tw/tw/schedule.html)
+ * [JSDC 2015 議程表](http://2015.jsdc.tw/zh_tw/schedule.html)
  * [JSDC 2015 Schedule](http://2015.jsdc.tw/en/schedule.html)
  
 趕快來就是現在，立刻[購票參加 JSDC 2015](http://jsdc-tw.kktix.cc/events/jsdc2015), 
