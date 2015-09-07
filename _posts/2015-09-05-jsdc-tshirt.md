@@ -16,6 +16,8 @@ tableOfContents:
 
 每一年 JSDC　總是會有自己不同的主題，每一年都會有不同的風格與展現，在這次特別開放讓所有支持 JSDC 的朋友都能夠有機會購得每年度的限量設計款紀念 T 恤。
 
+## JSDC 2015 愛心T-shirt預售計畫
+
 希望透過開發預購的方式，讓更多人不用參加 JSDC　就能夠一起感受今年度的熱情與活力。
 
 ![](https://t.kfs.io/organization_resource_files/488/4662/2.jpg)
@@ -40,5 +42,5 @@ tableOfContents:
 
 ![](https://t.kfs.io/organization_resource_files/488/4393/tee_final-08.jpg)
 
-[支持 JSDC 2015 愛心T-shirt預售計畫](http://jsdc-tw.kktix.cc/events/jsdc2015t)
+## [支持 JSDC 2015 愛心T-shirt預售計畫](http://jsdc-tw.kktix.cc/events/jsdc2015t)
 
