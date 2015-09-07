@@ -18,6 +18,8 @@ tableOfContents:
 
 希望透過開發預購的方式，讓更多人不用參加 JSDC　就能夠一起感受今年度的熱情與活力。
 
+![](https://t.kfs.io/organization_resource_files/488/4662/2.jpg)
+
 即日起開放，而我們也決定每賣出一件，將捐出 100 元給[家扶基金會](http://www.ccf.org.tw/) ，讓熱情能扎根下去，從小做起。
 
 [支持 JSDC 2015 愛心T-shirt預售計畫](http://jsdc-tw.kktix.cc/events/jsdc2015t)
@@ -31,3 +33,12 @@ tableOfContents:
 今年 JSDC 希望將社群的力量化為愛心，讓台灣社會變得更好。
 
 限量精美設計 [JSDC 2015 T恤](http://jsdc-tw.kktix.cc/events/jsdc2015t)，就是現在，[快點加入預購行列吧](http://jsdc-tw.kktix.cc/events/jsdc2015t)！
+
+![](https://t.kfs.io/organization_resource_files/488/4392/tee_final-04.jpg)
+
+![](https://t.kfs.io/organization_resource_files/488/4664/7.jpg)
+
+![](https://t.kfs.io/organization_resource_files/488/4393/tee_final-08.jpg)
+
+[支持 JSDC 2015 愛心T-shirt預售計畫](http://jsdc-tw.kktix.cc/events/jsdc2015t)
+
