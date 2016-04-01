@@ -12,6 +12,8 @@ tableOfContents:
     link: #最新消息
 ---
 
+![](http://topic.parenting.com.tw/issue/2016/coding/images/schoolpic-2.jpg)
+
 [程式語言融入課綱 需20萬教師](http://www.cna.com.tw/news/ahel/201603290255-1.aspx)
 
 為因應程式語言融入課綱需求，JSDC 本著公開，開源，教育三位一體，將這兩年來打造的 『JavaScript 教戰指導手冊』與教育部合作，為接下來程式語言課程教師人力不足之處盡一份心力。
