@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 淺談蓄勢待發的 Angular2
-author: Ivan Wei
+author: ivanwei
 description: 淺談 Angular2，讓初學者了解它與 Angular1 的差異
 image: http://farm9.staticflickr.com/8391/29000284732_8be50251b1_b.jpg
 tags:
