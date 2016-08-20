@@ -11,7 +11,7 @@ url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
 headline:
-  link: http://2014.jsdc.tw
+  link: http://2016.jsdc.tw
   title: console.log(JSDC)
   description: This is JS way to developing.
 
@@ -84,8 +84,8 @@ menu:
     href: /#about
     page: about
   - text: JSDC
-    href: http://2014.jsdc.tw
-    page: jsdc2014
+    href: http://2016.jsdc.tw
+    page: jsdc2016
   - text: Design
     href: /2014/08/20/jsdc-design/
     page: design
