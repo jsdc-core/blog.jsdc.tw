@@ -37,4 +37,4 @@ tableOfContents:
 
 ## 更多 Angular2
 
-想知道更多關於 Angular2，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 講者名單有 Angular2 前鋒 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與 [Angular 國外資深開發人員](https://twitter.com/gdi2290 '神秘嘉賓')。對 Angular2 保持的好奇，對 Angular2 有所期待的你/妳，還不心動嗎？  
+想知道更多關於 Angular2，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 講者名單有 Angular2 前鋒 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與 [Angular 國外資深開發人員](https://twitter.com/gdi2290 '神秘嘉賓')。對 Angular2 保持的好奇，對 Angular2 有所期待的你/妳，還不心動嗎？我是心動了。  
