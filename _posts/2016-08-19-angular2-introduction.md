@@ -18,7 +18,11 @@ tableOfContents:
 
 ## 關於 Anguar2
 
-「Angular2 主要目的是為了打造一個更簡單開發的 Web 框架，開發團隊深信寫出漂亮的應用是會讓人感覺快樂與有趣」，這段話翻自 Angular2 About 的內容。顯然這次的大改版將帶來的不單只是效能的提升，從官網提供的範例可以略知一二。以下我們對 Angular2 重點整理，方便大家更快了解 Angular2。   
+「Angular2 主要目的是為了打造一個更簡單開發的 Web 框架，開發團隊深信寫出漂亮的應用是會讓人感覺快樂與有趣」，這段話翻自 Angular2 About。
+
+這次的改版 Angular 團隊將 [Javascript VM - Zone.js](https://github.com/angular/zone.js/ 'Javascript VM - Zone.js') 放進 Angular2，決解 Angular1 在錯誤處理與分析薄弱的弱勢，此外更進一步出專屬的 [Zone.js - NgZone](https://angular.io/docs/ts/latest/api/core/index/NgZone-class.html 'NgZone')，讓開發者能更容易追蹤數據變化，改善過去數據流難追蹤的窘境；另外一個明顯的改變，這次的改版官方釋出三種範例，分別是 老大哥 JavaScript、最近火得發燙的 [TypeScript](https://www.typescriptlang.org/ 'TypeScript') 以及 Zone.js 發想起源 [Dart](https://www.dartlang.org/ 'Dart')，提供過去沒見過的多元範例的選項。這些改變都顯現出 Angular 團隊對於這次的大改版想帶來的不單只是版號改變，而是想給開發者在 Angular 的體驗上能有一個大跳躍。
+
+可是 Angular2 就只有這些改變嗎？以下我們對 Angular2 重點整理，方便大家更快了解 Angular2。
 
 ## Agnular2 主要改變
 
@@ -33,4 +37,4 @@ tableOfContents:
 
 ## 更多 Angular2
 
-想知道更多 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與其他大師對 Angular2 的看法或 JS 實戰分享，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 絕對值得你/妳前來聆聽。 
+想知道更多關於 Angular2，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 講者名單有 Angular2 前鋒 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與 [Angular 國外資深開發人員](https://twitter.com/gdi2290 '神秘嘉賓')。對 Angular2 保持的好奇，對 Angular2 有所期待的你/妳，還不心動嗎？  
