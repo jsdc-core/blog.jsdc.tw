@@ -33,6 +33,4 @@ tableOfContents:
 
 ## 更多 Angular2
 
-想知道 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 怎麼看 Angular2，可以看看 7月時所寫的 [前端工程的夢幻逸品：Angular 2 開發框架介紹](http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx '前端工程的夢幻逸品：Angular 2 開發框架介紹')。
-
-想知道更多保哥與大師對 Angular2 的看法或 JS 實戰分享，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 絕對值得你/妳前來聆聽。 
+想知道更多 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與其他大師對 Angular2 的看法或 JS 實戰分享，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 絕對值得你/妳前來聆聽。 
