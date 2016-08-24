@@ -1,9 +1,9 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: ["README.md", "Makefile"]
-highlighter: true
-
 markdown: kramdown
+highlighter: rouge
+
 
 title: JSDC Core Team
 description: jsdc is JavaScript developer Community / Conference
