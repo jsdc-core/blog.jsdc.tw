@@ -1,7 +1,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: ["README.md", "Makefile"]
-pygments: true
+highlighter: true
 
 markdown: kramdown
 
