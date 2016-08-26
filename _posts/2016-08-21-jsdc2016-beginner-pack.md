@@ -9,17 +9,17 @@ tags:
   - 懶人包
 tableOfContents:
   - text: For初學者
-    link: #for
+    link: jsdc2016-beginner-pack#for
   - text: JS入門介紹
-    link: #js
+    link: jsdc2016-beginner-pack#js
   - text: Web前端技術與最新發展
-    link: #web
+    link: jsdc2016-beginner-pack#web
   - text: 網頁的構成
-    link: #section
+    link: jsdc2016-beginner-pack#section
   - text: 議程推薦
-    link: #section-2
+    link: jsdc2016-beginner-pack#section-2
   - text: 小結
-    link: #section-3
+    link: jsdc2016-beginner-pack#section-3
 ---
 
 
