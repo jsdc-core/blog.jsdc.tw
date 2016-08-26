@@ -9,17 +9,17 @@ tags:
   - 懶人包
 tableOfContents:
   - text: For初學者
-    link: #For初學者
+    link: #for
   - text: JS入門介紹
-    link: ##JS入門介紹
+    link: #js
   - text: Web前端技術與最新發展
-    link: #Web前端技術與最新發展
+    link: #web
   - text: 網頁的構成
-    link: ##網頁的構成
+    link: #section
   - text: 議程推薦
-    link: ##議程推薦
+    link: #section-2
   - text: 小結
-    link: #小結
+    link: #section-3
 ---
 
 
