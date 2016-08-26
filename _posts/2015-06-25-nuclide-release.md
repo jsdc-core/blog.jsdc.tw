@@ -9,7 +9,7 @@ tags:
   - 消息
 tableOfContents:
   - text: 最新消息
-    link: #最新消息
+    link: 最新消息
 ---
 
 ![](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xaf1/t39.2365-6/11414360_1436232903366096_731191817_n.jpg)
