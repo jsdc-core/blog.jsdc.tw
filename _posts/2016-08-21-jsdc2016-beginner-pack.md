@@ -144,8 +144,8 @@ HTML5則是最新的HTML標準，提供了許多新的元件種類與對應的JS
 
 ## 議程推薦
 
-- 開發 Angular 2 網站好簡單之推坑就對了（保哥）
-- 超融合 React （XP Steven）
+- 使用 Angular 2 與 Firebase 實現 Serverless 網站架構（保哥）
+- GraphQL 經驗分享（XP Steven）
 - How to adapt to change & exploring Vue.js （Blake Newman）
 
 # 小結
