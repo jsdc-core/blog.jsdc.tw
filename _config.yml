@@ -70,6 +70,10 @@ authors:
     avatar: http://cdn.inside.com.tw/wp-content/uploads/2012/04/website_logo.png
     email: hq@jsdc.tw
     github: jsdc-core
+  webber:
+    name: Webber
+    avatar: https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/12341135_1105783529441108_2938587828859091543_n.jpg?oh=cbfffb245f5d73a3b00d06f4cd854e4d&oe=5849E2E6
+    github: webber0928
 
 menu:
   - text: Home
