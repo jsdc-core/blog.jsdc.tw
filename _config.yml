@@ -61,7 +61,11 @@ authors:
     avatar: http://cdn.inside.com.tw/wp-content/uploads/2012/04/website_logo.png
     email: hq@jsdc.tw
     github: jsdc-core
-
+  ali:
+    name: ALi
+    avatar: https://avatars1.githubusercontent.com/u/5118200?v=3&s=460
+    email: ali.li@jsdc.tw
+    github: esbb48
 menu:
   - text: Home
     href: /
