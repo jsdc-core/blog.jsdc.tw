@@ -91,12 +91,12 @@ HTML5則是最新的HTML標準，提供了許多新的元件種類與對應的JS
 
 用WebGL的3D技術，讓我們在網頁實作3D遊戲！林林總總的 UI widget套件：開發一個Web Application一定需要相當多的表單元件（日期選擇器、下拉bar、Rich text編輯器、按鈕⋯⋯）、進度條、資料表格，甚至拖拉、樹狀列表等複雜的元件。很多library專注提供單一的widget，有些則是包山包海，如jQueryUI、KendoUI、ExtJS等等。
 
-### 開發測試相關Library與工具
+# 開發測試相關Library與工具
 
 如單元測試使用的Jesmine，測試一連串End-to-end操作的Protractor、模組化與管理相依性的Library：Browserify、webpack、SystemJS、RequireJS等等。這些工具幾乎都是開發時使用的，多半是在NodeJS環境提供。他們只是輔助，不包含在我們前端的程式碼裡面喔！
 
 
-### 前端框架（framework）
+## 前端框架（framework）
 
 當網站的規模愈來愈大的時候，應該很難想像如何架構好一個容易管理、架構分明的程式吧！這時候，我們就需要框架來輔助了！這邊介紹幾種一定要認識的框架：
 
@@ -132,7 +132,7 @@ HTML5則是最新的HTML標準，提供了許多新的元件種類與對應的JS
   - [Aurelia](https://vuejs.org/)：與Angular類似的大型framework，使用ES6/ES7最新的語言特色。
   - Polymer：由Google開發，也是定義component的library，使用了W3C的WebComponent標準來封裝元件。
 
-### 語言本身：
+## 語言本身：
 
 隨著愈來愈多人使用JavaScript，開發者們也發現現在的JavaScript（ES5版本）設計上的諸多不足。於是，除了JS語言本身的改版被大家迫不及待的搶先使用外，也有許多人發展了新的語法/語言，再用transplier來轉換成JS喔！
 
