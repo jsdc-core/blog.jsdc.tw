@@ -53,10 +53,10 @@ JS 是一門程式語言，但他與其他眾多語言不同的地方，在於�
   - HTML：負責頁面的結構與內容，如標題、超連結、表格⋯⋯都有專屬的HTML語法。當我們檢視網頁原始碼時，看到的&lt;xxx&gt;&lt;/xxx&gt;形式的語法就是HTML。這是Yahoo!奇摩的原始碼：
 ![](http://i.imgur.com/SGxx6CXr.png)
 HTML5則是最新的HTML標準，提供了許多新的元件種類與對應的JS API。以下幾種是比較需要了解的：
-  - Canvas：提供畫板繪圖功能，很多2D遊戲都用這種方式實作喔！
-  - WebSocket：即時與server端雙向通訊，常用來做聊天、即時互動等等應用。
-  - Audio/Video：提供標準的聲音＆影片元件，可以使用JS控制播放。
-  - Local Storage：讓網站可以存資料在瀏覽器裡。
+    - Canvas：提供畫板繪圖功能，很多2D遊戲都用這種方式實作喔！
+    - WebSocket：即時與server端雙向通訊，常用來做聊天、即時互動等等應用。
+    - Audio/Video：提供標準的聲音＆影片元件，可以使用JS控制播放。
+    - Local Storage：讓網站可以存資料在瀏覽器裡。
 
   - CSS：負責頁面元件的樣式，如顏色、字型大小、背景圖等等。上圖右下角的Styles的內容就是CSS的語法。如果沒有CSS，Yahoo!奇摩會變得像這樣：
 ![](http://i.imgur.com/ER99nlF.png)
