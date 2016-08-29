@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 近期語言發展
-author: Kevin Chen
+author: kevinchen
 description: 從GitHub的排名中一窺近期語言的發展。
 image:
 tags:
@@ -10,13 +10,17 @@ tags:
   - JavaScript
   - Node.js
 tableOfContents:
-  - text: 最新消息
-    link: #最新消息
+  - text: GitHub 語言排名
+    link: recent-language-development#github-
+  - text: 淺談近期趨勢
+    link: recent-language-development#section
+  - text: 推薦議程
+    link: recent-language-development#section-1
 ---
 
-## GitHub語言排名
+## GitHub 語言排名
 
-![GitHub info](http://githut.info/)
+[GitHub info](http://githut.info/ 'GitHub info')
 
 全球最大的Open Source程式碼管理庫，
 按每年每個季度，程式語言各項指標進行排名，

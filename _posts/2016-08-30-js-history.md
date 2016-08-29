@@ -8,8 +8,16 @@ tags:
   - news
   - JavaScript
 tableOfContents:
-  - text: 最新消息
-    link: #最新消息
+  - text: 前端工程進化論
+    link: js-history#section
+  - text: 淺談前端過往
+    link: js-history#section-1
+  - text: 網站應用興起
+    link: js-history#section-2
+  - text: 單向綁定雙向綁定
+    link: js-history#section-3
+  - text: 前端開發下一步
+    link: js-history#section-4
 ---
 
 # 前端工程進化論

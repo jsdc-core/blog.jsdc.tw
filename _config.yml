@@ -23,7 +23,7 @@ authors:
     github: SimonSun1988
   kevinchen:
     name: 陳明正
-    avatar: 
+    avatar: https://raw.githubusercontent.com/jsdc-core/jsdc2016/gh-pages/dist/images/members/kevin.jpg
     email: kevinxyz77@gmail.com
     github: kevinchenxyz
   poying:
@@ -77,11 +77,10 @@ authors:
     github: ivanwei
   jsdc:
     name: JSDC team
-    avatar: http://cdn.inside.com.tw/wp-content/uploads/2012/04/website_logo.png
+    avatar: https://raw.githubusercontent.com/jsdc-core/logo/master/logo/JSDC.TW_250.png
     email: hq@jsdc.tw
     github: jsdc-core
-
-  ali:
+  ALi:
     name: ALi
     avatar: https://avatars1.githubusercontent.com/u/5118200?v=3&s=460
     email: ali.li@jsdc.tw
