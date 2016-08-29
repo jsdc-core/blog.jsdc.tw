@@ -8,15 +8,19 @@ tags:
   - news
   - 消息
 tableOfContents:
-  - text: 最新消息
-    link: #最新消息
+  - text: 關於 Angular2
+    link: angular2-introduction#angular2
+  - text: Agnular2 主要改變
+    link: angular2-introduction#agnular2-
+  - text: 更多 Angular2
+    link: angular2-introduction#angular2-1
 ---
 
 ![Angular2 Trends](https://farm9.staticflickr.com/8440/28490212844_176b5f852b_h.jpg 'Angular2 Trends')
 
 [Angular2](https://angular.io/ 'Angular2') 於 8/10 釋出 RC5 版本，從上圖 [Google Trends](https://www.google.com.tw/trends/explore?date=2015-01-01%202016-08-21&q=angular2 'Google Trends') 可以得知隨著正式穩定版本的逼近，也吸引越來越多人的關注的目光。
 
-## 關於 Anguar2
+## 關於 Angular2
 
 「Angular2 主要目的是為了打造一個更簡單開發的 Web 框架，開發團隊深信寫出漂亮的應用是會讓人感覺快樂與有趣」，這段話翻自 Angular2 About。
 
