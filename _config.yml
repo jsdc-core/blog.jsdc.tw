@@ -1,9 +1,9 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: ["README.md", "Makefile"]
-pygments: true
-
 markdown: kramdown
+highlighter: rouge
+
 
 title: JSDC Core Team
 description: jsdc is JavaScript developer Community / Conference
@@ -11,11 +11,21 @@ url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
 headline:
-  link: http://2014.jsdc.tw
+  link: http://2016.jsdc.tw
   title: console.log(JSDC)
   description: This is JS way to developing.
 
 authors:
+  Simon Sun:
+    name: 孫豪佑
+    avatar: http://i.imgur.com/t5BJCas.jpg
+    email: blackghost0118@gmail.com
+    github: SimonSun1988
+  kevinchen:
+    name: 陳明正
+    avatar: 
+    email: kevinxyz77@gmail.com
+    github: kevinchenxyz
   poying:
     name: 陳柏穎
     avatar: http://s.gravatar.com/avatar/de7c8319cc3164cfa8cefb703b0ccf94?s=80
@@ -56,16 +66,31 @@ authors:
     name: 周裕波
     avatar: http://img2.w3ctech.com/fe98883782822da7514ec04b6fc6cdda.jpg
     github: jsdc-core
+  df1:
+    name: Ellis Chang
+    avatar: https://media.licdn.com/mpr/mpr/shrink_100_100/p/4/000/142/25d/34ec728.jpg
+    github: df1
+  ivanwei:
+    name: Ivan Wei
+    avatar: https://s.gravatar.com/avatar/b3417b9a40d628abdab1d9f1a9f71e79?s=80
+    email: scorpionseed@gmail.com
+    github: ivanwei
   jsdc:
     name: JSDC team
     avatar: http://cdn.inside.com.tw/wp-content/uploads/2012/04/website_logo.png
     email: hq@jsdc.tw
     github: jsdc-core
+
   ali:
     name: ALi
     avatar: https://avatars1.githubusercontent.com/u/5118200?v=3&s=460
     email: ali.li@jsdc.tw
     github: esbb48
+  webber:
+    name: Webber
+    avatar: https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/12341135_1105783529441108_2938587828859091543_n.jpg?oh=cbfffb245f5d73a3b00d06f4cd854e4d&oe=5849E2E6
+    github: webber0928
+
 menu:
   - text: Home
     href: /
@@ -74,8 +99,8 @@ menu:
     href: /#about
     page: about
   - text: JSDC
-    href: http://2014.jsdc.tw
-    page: jsdc2014
+    href: http://2016.jsdc.tw
+    page: jsdc2016
   - text: Design
     href: /2014/08/20/jsdc-design/
     page: design

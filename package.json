@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server ./"
+    "start": "http-server ./",
+    "start-server": "jekyll server -w"
   },
   "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
   "license": "MIT"
