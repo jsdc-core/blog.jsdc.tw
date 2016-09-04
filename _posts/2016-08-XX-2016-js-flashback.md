@@ -33,7 +33,7 @@ tableOfContents:
 
 
 ## 2016/3
-- (因為npm未經通知強迫kik套件改名，作者Azer將其所有套件自npm下架](http://goo.gl/5vALQV)
+- [因為npm未經通知強迫kik套件改名，作者Azer將其所有套件自npm下架](http://goo.gl/5vALQV)
 
 ## 2016/1
 - [TrendMicro發生NodeJS安全性事件](https://code.google.com/p/google-security-research/issues/detail?id=693)
