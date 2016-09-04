@@ -2,7 +2,7 @@
 layout: post
 title: 2016 JS 重大事件簿
 author: df1
-description: 這一年來JS圈可發生了不少事，讓我們開啟人生跑馬燈，回顧這一年來的大事吧！
+description: Web技術發展瞬息萬變，這一年來JS圈可發生了不少事，讓我們開啟人生跑馬燈，回顧這一年來的大事吧！
 image:
 tags:
   - news
