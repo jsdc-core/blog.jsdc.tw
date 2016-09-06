@@ -23,14 +23,12 @@ tableOfContents:
 ## 2016/6
 - [jQuery 3.0 正式發佈 ](http://goo.gl/DTNLCV)
 - [ES2016 (ES7) Spec正式公佈 ](http://goo.gl/kaN4Dl)
-- Samsung宣佈併購Joyent
-
+- Samsung宣佈併購Joyent (Node.js 支持公司)
 
 ## 2016/4
-- [JSCS推出第3版，並同時宣布與ESLint合併](http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint)
+- [JSCS 推出第3版，並同時宣布與ESLint合併](http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint)
 - [NodeJS v6 正式發佈](http://goo.gl/eVBMvW)
 - [Vue.js 發佈2.0版本](http://goo.gl/D9x761)
-
 
 ## 2016/3
 - [因為npm未經通知強迫kik套件改名，作者Azer將其所有套件自npm下架](http://goo.gl/5vALQV)
@@ -44,3 +42,9 @@ tableOfContents:
 
 ## 2015/9
 - io.js正式合併回NodeJS
+
+## 2015/2
+- [React Native 對外發佈 iOS & Android](https://facebook.github.io/react-native/)
+
+## 2013/5
+- [React.js 第一版對外發佈](https://www.youtube.com/watch?v=GW0rj4sNH2w)
