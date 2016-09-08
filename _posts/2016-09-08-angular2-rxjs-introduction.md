@@ -9,11 +9,13 @@ tags:
   - 消息
 tableOfContents:
   - text: 關於 Angular2
-    link: angular2-introduction#angular2
+    link: angular2-rxjs-introduction#angular2
   - text: Agnular2 主要改變
-    link: angular2-introduction#agnular2-
-  - text: 更多 Angular2
-    link: angular2-introduction#angular2-1
+    link: angular2-rxjs-introduction#agnular2-
+  - text: 關於 Reactive Extensions
+    link: angular2-rxjs-introduction#reactive-extensions
+  - text: 更多 Angular2 與 RxJS
+    link: angular2-rxjs-introduction#angular2--rxjs
 ---
 
 ![Angular2 Trends](https://farm9.staticflickr.com/8440/28490212844_176b5f852b_h.jpg 'Angular2 Trends')
@@ -39,7 +41,7 @@ tableOfContents:
 4. 跨平臺的支援
   - 除了 Web 外，還支援手機 App 與桌機 App
 
-## 關於 ReactiveX
+## 關於 Reactive Extensions
 
 ![Reactive Extensions](http://media.rehansaeed.com/rehansaeed/2014/02/Reactive-Extensions.png 'Reactive Extensions')
 ###### (image credit: [rehansaeed.com](http://media.rehansaeed.com/ 'rehansaeed.com'))
