@@ -2,23 +2,25 @@
 layout: post
 title: 淺談蓄勢待發的 Angular2
 author: ivanwei
-description: 淺談 Angular2，讓初學者了解它與 Angular1 的差異
+description: 淺談 Angular2 與 RxJS，讓初學者了解它與 Angular1 的差異
 image: http://farm9.staticflickr.com/8391/29000284732_8be50251b1_b.jpg
 tags:
   - news
   - 消息
 tableOfContents:
   - text: 關於 Angular2
-    link: angular2-introduction#angular2
+    link: angular2-rxjs-introduction#angular2
   - text: Agnular2 主要改變
-    link: angular2-introduction#agnular2-
-  - text: 更多 Angular2
-    link: angular2-introduction#angular2-1
+    link: angular2-rxjs-introduction#agnular2-
+  - text: 關於 Reactive Extensions
+    link: angular2-rxjs-introduction#reactive-extensions
+  - text: 更多 Angular2 與 RxJS
+    link: angular2-rxjs-introduction#angular2--rxjs
 ---
 
 ![Angular2 Trends](https://farm9.staticflickr.com/8440/28490212844_176b5f852b_h.jpg 'Angular2 Trends')
 
-[Angular2](https://angular.io/ 'Angular2') 於 8/10 釋出 RC5 版本，從上圖 [Google Trends](https://www.google.com.tw/trends/explore?date=2015-01-01%202016-08-21&q=angular2 'Google Trends') 可以得知隨著正式穩定版本的逼近，也吸引越來越多人的關注的目光。
+[Angular2](https://angular.io/ 'Angular2') 於 8/10 釋出 RC5 版本（ 9/2 已釋出 RC6 ），從上圖 [Google Trends](https://www.google.com.tw/trends/explore?date=2015-01-01%202016-08-21&q=angular2 'Google Trends') 可以得知隨著正式穩定版本的逼近，也吸引越來越多人的關注的目光。
 
 ## 關於 Angular2
 
@@ -39,6 +41,16 @@ tableOfContents:
 4. 跨平臺的支援
   - 除了 Web 外，還支援手機 App 與桌機 App
 
-## 更多 Angular2
+## 關於 Reactive Extensions
 
-想知道更多關於 Angular2，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 講者名單有 Angular2 前鋒 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與 [Angular 國外資深開發人員](https://twitter.com/gdi2290 '神秘嘉賓')。對 Angular2 保持的好奇，對 Angular2 有所期待的你/妳，還不心動嗎？我是心動了。  
+![Reactive Extensions](http://media.rehansaeed.com/rehansaeed/2014/02/Reactive-Extensions.png 'Reactive Extensions')
+###### (image credit: [rehansaeed.com](http://media.rehansaeed.com/ 'rehansaeed.com'))
+
+[Reactive Extensions](http://reactivex.io/ 'Reactive Extensions') 縮寫是 ReactiveX，簡寫為 Rx，最初是 [LINQ](https://msdn.microsoft.com/zh-tw/library/bb397897.aspx 'LINQ') 的擴充，由 Microsoft 架構師 [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist) 'Erik Meijer') 團隊開發並於 2012 年 11月開源的 [Library](https://github.com/Reactive-Extensions 'Library')，屬於程序模組。目的是為了提供統一的程序控管，協助開發者更方便處理非同步資料（Asynchronous data steams）。已有許多公司導入使用，例如 [Microsoft](https://msdn.microsoft.com/en-us/data/gg577609.aspx 'Microsoft') 、 [Netflix](http://techblog.netflix.com/2013/02/rxjava-netflix-api.html 'Netflix') 、 [Trello](https://github.com/trello/RxLifecycle 'Trello') 、 [SoundCloud](https://developers.soundcloud.com/blog/building-the-new-ios-app-a-new-paradigm 'SoundCloud') 以及 Angular2。
+
+為了讓更多臺灣開發者了解 ReactiveX，這次 JSDC 團隊邀請到 RxJS 5 的核心成員 [Paul Taylor](https://twitter.com/trxcllnt 'Paul Taylor') 前來介紹 ReactiveX 以及分享 Client、Server 在開發經常遇到的非同步問題。
+
+
+## 更多 Angular2 與 RxJS
+
+想知道更多關於 Angular2 與 RxJS，今年的 [2016 JSDC](http://2016.jsdc.tw/ '2016 JSDC') 講者名單有 Angular2 前鋒 [Will 保哥](https://www.facebook.com/will.fans/ 'Will 保哥') 與 RxJS 5 核心成員 Paul Taylor。對 Angular2 / RxJS 保持的好奇，對 Angular2 / RxJS 有所期待的你 / 妳，還不心動嗎？我是心動了。
