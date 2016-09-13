@@ -19,7 +19,7 @@ tableOfContents:
     link: react-next#web-
   - text: 第二階段：Mobile 冒險家
     link: react-next#mobile-
-  - text: 第三階段：大師
+  - text: 第三階段：往大師之路邁進
     link: react-next#section-2
 ---
 
@@ -101,7 +101,7 @@ React Native 的出現讓原本的網頁工程師可以將觸角延伸到 Native
 - - - -
 
 
-### 大師
+### 第三階段：往大師之路邁進
 
 遊戲玩家最終總會有封頂之時，而開發者很幸運的是技術不會！
 
