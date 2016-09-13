@@ -10,8 +10,8 @@ tags:
 tableOfContents:
   - text: 關於 Angular2
     link: angular2-rxjs-introduction#angular2
-  - text: Agnular2 主要改變
-    link: angular2-rxjs-introduction#agnular2-
+  - text: Angular2 主要改變
+    link: angular2-rxjs-introduction#angular2-
   - text: 關於 Reactive Extensions
     link: angular2-rxjs-introduction#reactive-extensions
   - text: 更多 Angular2 與 RxJS
@@ -30,7 +30,7 @@ tableOfContents:
 
 可是 Angular2 就只有這些改變嗎？以下我們對 Angular2 重點整理，方便大家更快了解 Angular2。
 
-## Agnular2 主要改變
+## Angular2 主要改變
 
 1. 強化模組化技術
   - 實踐 [開閉原則 The Open/Closed Principle](https://zh.wikipedia.org/wiki/%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99 '開閉原則 The Open/Closed Principle') 與 [關注點分離](https://zh.wikipedia.org/wiki/%E5%85%B3%E6%B3%A8%E7%82%B9%E5%88%86%E7%A6%BB '關注點分離') 兩個原則
