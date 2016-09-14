@@ -22,6 +22,7 @@ tableOfContents:
   - text: 第三階段：往大師之路邁進
     link: react-next#section-2
 ---
+![React](http://i.imgur.com/IMunTrh.png)
 
 ## 為什麼會有 React ?
 
