@@ -11,7 +11,7 @@ url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
 headline:
-  link: http://2016.jsdc.tw
+  link: http://2017.jsdc.tw
   title: console.log(JSDC)
   description: This is JS way to developing.
 
@@ -78,7 +78,7 @@ authors:
   jsdc:
     name: JSDC team
     avatar: https://raw.githubusercontent.com/jsdc-core/logo/master/logo/JSDC.TW_250.png
-    email: hq@jsdc.tw
+    email: core@jsdc.tw
     github: jsdc-core
   ALi:
     name: ALi
@@ -98,23 +98,23 @@ menu:
     href: /#about
     page: about
   - text: JSDC
-    href: http://2016.jsdc.tw
-    page: jsdc2016
+    href: http://jsdc.tw
+    page: JSDC.tw
   - text: Design
-    href: /2014/08/20/jsdc-design/
+    href: /2014/08/20/jsdc-design
     page: design
   - text: Angular.tw
-    href: http://www.fb.com/groups/augularjs.tw/
+    href: http://www.fb.com/groups/augularjs.tw
     page: ng-tw
   - text: Front-End
-    href: http://www.fb.com/groups/f2e.tw/
+    href: http://www.fb.com/groups/f2e.tw
     page: front-end
   - text: HTML5
-    href: http://www.fb.com/groups/htmlfive/
+    href:
     page: html5
   - text: JS.tw
-    href: http://www.fb.com/groups/javascript.tw/
+    href: http://www.fb.com/groups/javascript.tw
     page: js-tw
-  - text: Node.js
+  - text: Node.jshttp://www.fb.com/groups/htmlfive
     href: http://fb.com/groups/node.js.tw/
     page: nodejs
