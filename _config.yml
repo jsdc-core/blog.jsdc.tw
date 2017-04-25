@@ -110,11 +110,11 @@ menu:
     href: http://www.fb.com/groups/f2e.tw
     page: front-end
   - text: HTML5
-    href:
+    href: http://www.fb.com/groups/htmlfive
     page: html5
   - text: JS.tw
     href: http://www.fb.com/groups/javascript.tw
     page: js-tw
-  - text: Node.jshttp://www.fb.com/groups/htmlfive
-    href: http://fb.com/groups/node.js.tw/
+  - text: Node.js
+    href: http://fb.com/groups/node.js.tw
     page: nodejs
