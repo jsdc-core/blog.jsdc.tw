@@ -6,7 +6,7 @@ highlighter: rouge
 
 
 title: JSDC Core Team
-description: jsdc is JavaScript developer Community / Conference
+description: JSDC is JavaScript Developer Community / Conference
 url: http://blog.jsdc.tw
 domain: blog.jsdc.tw
 
@@ -103,15 +103,15 @@ menu:
   - text: Design
     href: /2014/08/20/jsdc-design
     page: design
-  - text: Angular.tw
-    href: http://www.fb.com/groups/augularjs.tw
-    page: ng-tw
-  - text: Front-End
+  # - text: Angular.tw
+  #   href: http://www.fb.com/groups/augularjs.tw
+  #   page: ng-tw
+  - text: F2E.tw
     href: http://www.fb.com/groups/f2e.tw
-    page: front-end
-  - text: HTML5
-    href: http://www.fb.com/groups/htmlfive
-    page: html5
+    page: f2e.tw
+  # - text: HTML5
+  #   href: http://www.fb.com/groups/htmlfive
+  #   page: html5
   - text: JS.tw
     href: http://www.fb.com/groups/javascript.tw
     page: js-tw
