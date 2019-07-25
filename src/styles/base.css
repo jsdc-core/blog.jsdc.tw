@@ -52,3 +52,7 @@ a {
 .clearfix:after {
 	clear: both;
 }
+
+td {
+	border: 1px solid black;
+}
