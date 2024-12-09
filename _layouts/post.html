@@ -5,14 +5,16 @@
   <div class="container clearfix">
     <article class="article post-page-article">
       <div class="article-sidebar">
-        <nav class="article-table-of-contents">
-          <h2 class="article-sidebar-title">Table of Contents</h2>
-          <ul>
-            {% for item in page.tableOfContents %}
-              <li><a href="{{ item.link }}">{{ item.text }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
+        {% if page.tableOfContents %}
+          <nav class="article-table-of-contents">
+            <h2 class="article-sidebar-title">Table of Contents</h2>
+            <ul>
+              {% for item in page.tableOfContents %}
+                <li><a href="{{ item.link }}">{{ item.text }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+        {% endif %}
       </div>
 
       <div class="article-main">
