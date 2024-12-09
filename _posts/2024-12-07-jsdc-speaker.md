@@ -13,6 +13,8 @@ tags:
 tableOfContents:
 ---
 
+
+
 ## JSDC2024 年會資訊
 
 ❏ 活動日期：2024 年
@@ -22,6 +24,8 @@ tableOfContents:
 ❏ 報名連結： https://www.accupass.com/event/2411191318271681933268
 
 ## JSDC2024 講者公布 📣📣📣
+
+![▍吳哲宇-JSDC2024](https://i.imgur.com/OH5bfyR.png)
 
 ▍吳哲宇 | MonoLab 創辦人
 
