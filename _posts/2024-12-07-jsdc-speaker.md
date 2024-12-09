@@ -1,9 +1,9 @@
 ---
 layout: post
-title: JSDC 2024 講者公布 �📣📣 - 哲宇的生成藝術之旅
+title: JSDC 2024 講者公布 📣📣 - 哲宇的生成藝術之旅
 author: jsdc
 description: 睽違許久的哲宇帶著法國駐村計畫經驗重返 JSDC，分享如何結合 AI 與生成藝術，創造出令人驚豔的作品。
-image: https://i.imgur.com/SsNnC3c.png
+image: https://i.imgur.com/OH5bfyR.png
 tags:
   - frontend
   - JSDC
@@ -17,11 +17,11 @@ tableOfContents:
 
 ## JSDC2024 年會資訊
 
-❏ 活動日期：2024 年
+❏ 活動日期：2024 年 12 月 21 日
 
-❏ 官方網站： https://2024.jsdc.tw/
+❏ 官方網站： [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
 
-❏ 報名連結： https://www.accupass.com/event/2411191318271681933268
+❏ 報名連結： [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
 ## JSDC2024 講者公布 📣📣📣
 
@@ -43,8 +43,36 @@ tableOfContents:
 
 ---
 
-❏ 活動日期：2024 年
+## JSDC2024 Conference Information
 
-❏ 官方網站： [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
+❏ Event Date: December 21, 2024
 
-❏ 報名連結： [https://www.accupass.com/event/2411191318271681933268](https://www.accupass.com/event/2411191318271681933268)�
+❏ Official Website: [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
+
+❏ Registration Link: [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
+
+## JSDC2024 Speaker Announcement 📣📣
+
+![▍Wu Che-Yu-JSDC2024](https://i.imgur.com/OH5bfyR.png)
+
+▍Wu Che-Yu | Founder of MonoLab
+
+═ Multi-layered Implementation of JavaScript in New Media Art ═
+
+### About the Speaker #GenerativeArt #AI #InteractiveDesign
+
+After a long absence, Che-Yu returns, this time bringing his latest experiences from his artist residency program in France to share at JSDC2024.
+
+From his early interactive web tutorials, being featured on Art Blocks, his dual-domain solo exhibition, to the Dialog() generative art exhibition, Che-Yu has consistently practiced and contributed to generative art through JS. He continues to share his passion, helping others appreciate the beauty of art by transforming ordinary code into artistic masterpieces.
+
+This time, Che-Yu will demonstrate how he uses Cursor and integrates OpenAI services, using his residency project "Eternal Bottle Garden" as an example to share how he enhanced his artwork's complexity through AI generation systems. Whether you're interested in creative programming or exploring how AI can improve your work, you're sure to gain valuable insights from Che-Yu's presentation.
+
+Limited spots available - don't miss out. Get your tickets now for the JSDC main conference.
+
+---
+
+❏ Event Date: December 21, 2024
+
+❏ Official Website: [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
+
+❏ Registration Link: [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)

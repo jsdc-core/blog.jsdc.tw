@@ -3,7 +3,7 @@ layout: post
 title: JSDC 2024 講者公布 📣 - Dhrubajit 的 Web Performance 基礎優化之道
 author: jsdc
 description: 資深軟體工程師 Dhrubajit 將在 JSDC 2024 分享如何透過掌握 Web Fundamentals 來打造高效能的網頁應用程式。
-image: https://i.imgur.com/SsNnC3c.png
+image: https://i.imgur.com/evobbfY.png
 tags:
   - frontend
   - JSDC
@@ -15,11 +15,11 @@ tableOfContents:
 
 ## JSDC2024 年會資訊
 
-❏ 活動日期：2024 年
+❏ 活動日期：2024 年 12 月 21 日
 
-❏ 官方網站： https://2024.jsdc.tw/
+❏ 官方網站： [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
 
-❏ 報名連結： https://www.accupass.com/event/2411191318271681933268
+❏ 報名連結： [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
 ## Web Performance Dhrubajit 📣📣📣
 
@@ -39,21 +39,21 @@ Dhrubajit 是一位擁有超過 8 年經驗的資深軟體工程師、顧問與�
 
 ---
 
-❏ 活動日期：2024 年
+❏ 活動日期：2024 年 12 月 21 日
 
 ❏ 官方網站： [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
 
-❏ 報名連結： [https://www.accupass.com/event/2411191318271681933268](https://www.accupass.com/event/2411191318271681933268)
+❏ 報名連結： [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
 ---
 
 ## JSDC 2024 Conference Information
 
-❏ Event Date: 2024
+❏ Event Date: 2024 / DECEMBER 21ST
 
-❏ Official Website: https://2024.jsdc.tw/
+❏ Official Website: [https://2024.jsdc.tw/](https://2024.jsdc.tw/)
 
-❏ Registration Link: https://www.accupass.com/event/2411191318271681933268
+❏ Registration Link: [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
 ## Web Performance with Dhrubajit 📣📣
 
