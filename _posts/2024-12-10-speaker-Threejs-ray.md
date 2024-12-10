@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JSDC 2024 講者公布 📣 - Ray 的 Three.js 技術之旅
+title: Ray 的 Three.js 技術之旅 - JSDC 2024 講者公布
 author: jsdc
 description: 全端工程師 Ray 將在 JSDC 分享他對 Three.js 的深入研究，探討 3D 網頁技術的最新發展與應用。
 image: [https://i.imgur.com/Q87mROX.png]
@@ -21,7 +21,7 @@ tableOfContents:
 
 ❏ 報名連結： [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
-## JSDC2024 講者公布 📣📣📣
+## JSDC2024 講者公布 📣📣📣 - Ray
 
 ![▍Ray-JSDC2024][https://i.imgur.com/Q87mROX.png]
 
