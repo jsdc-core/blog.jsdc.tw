@@ -23,7 +23,7 @@ tableOfContents:
 
 ## JSDC2024 講者公布 📣📣📣 - Ray
 
-![▍Ray-JSDC2024][https://i.imgur.com/Q87mROX.png]
+![Ray-JSDC2024][https://i.imgur.com/Q87mROX.png]
 
 ▍Ray | 全端工程師 & 遊戲開發師
 

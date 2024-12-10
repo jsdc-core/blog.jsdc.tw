@@ -23,7 +23,7 @@ tableOfContents:
 
 ## New Generation Web with John 📣📣📣
 
-![▍John-JSDC2024](https://i.imgur.com/M0XKXeu.png)
+![John-JSDC2024](https://i.imgur.com/M0XKXeu.png)
 
 ▍劉奕為 (John Liu) | 技術專家 & 技術主管
 
