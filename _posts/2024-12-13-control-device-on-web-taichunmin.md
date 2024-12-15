@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 戴均民的 IoT 開發之旅 - JSDC 2024 講者公布
+title: 用網頁使用你的硬體設備使用 Web Serial 及 Web Bluetooth
 author: jsdc
 description: 現任車能網資訊後端工程師戴均民將在 JSDC 分享如何運用 Web Serial 及 Web Bluetooth 技術控制嵌入式設備。
-image: [https://i.imgur.com/yNtU9au.png]
+image: [https://i.imgur.com/ZpnS4lu.png]
 tags:
-  - IoT
+  - JavaScript
   - JSDC
   - speaker
   - Web Serial
@@ -24,13 +24,13 @@ tableOfContents:
 
 ## JSDC2024 講者公布 📣📣 - 戴均民
 
-![Chunmin-JSDC2024](https://i.imgur.com/yNtU9au.png)
+![Chunmin-JSDC2024](https://i.imgur.com/ZpnS4lu.png)
 
 ▍戴均民 | 車能網資訊股份有限公司 後端工程師
 
 ═ 用網頁的 Web Serial 及 Web Bluetooth 控制你的嵌入式設備 ═
 
-### 關於講者 #IoT #JavaScript #WebSerial #WebBluetooth
+### 關於講者 #JavaScript #WebSerial #WebBluetooth
 
 戴均民是一位來自台中、現居台北的網站後端工程師。他對 LINE Chatbot、RFID 和量化交易等技術領域有濃厚興趣。在嵌入式設備開發方面擁有豐富經驗，特別專注於 Web 技術與硬體整合的創新應用。
 
@@ -50,7 +50,7 @@ tableOfContents:
 
 ## Chunmin Tai, JSDC2024 Speaker Announcement 📣📣
 
-![Chunmin-JSDC2024](https://i.imgur.com/yNtU9au.png)
+![Chunmin-JSDC2024](https://i.imgur.com/ZpnS4lu.png)
 
 ▍Chunmin Tai | Backend Engineer at Parking Lot Network Information Co., Ltd.
 
