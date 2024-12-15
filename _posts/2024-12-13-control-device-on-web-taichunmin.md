@@ -28,7 +28,7 @@ tableOfContents:
 
 ▍戴均民 | 車能網資訊股份有限公司 後端工程師
 
-═ 用網頁的 Web Serial 及 Web Bluetooth 控制你的嵌入式設備 ═
+═ 用網頁使用你的硬體設備使用 Web Serial 及 Web Bluetooth ═
 
 ### 關於講者 #JavaScript #WebSerial #WebBluetooth
 
@@ -54,7 +54,7 @@ tableOfContents:
 
 ▍Chunmin Tai | Backend Engineer at Parking Lot Network Information Co., Ltd.
 
-═ Controlling Embedded Devices with Web Serial and Web Bluetooth ═
+═ Control Your Hardware Devices Using Web Serial and Web Bluetooth ═
 
 ### About the Speaker #IoT #JavaScript #WebSerial #WebBluetooth
 
