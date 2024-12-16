@@ -14,6 +14,8 @@ tags:
 tableOfContents:
 ---
 
+你是否想將最新的 AI 技術整合進前端開發中，卻不知從何開始？JSDC 2024 很榮幸邀請到 Vivian Yeh，一位擁有三年開發經驗的軟體工程師，並同時經營 IG 自媒體 @vivian_enlife 分享職涯探索與自我成長的寶貴心得，她將為我們帶來主題為「輕鬆串接 Gemini API：從 Google AI Studio 到 Vertex AI in Firebase 的前端實作」的精彩分享。
+
 ## JSDC2024 年會資訊
 
 ❏ 活動日期：2024 年 12 月 21 日
@@ -22,7 +24,7 @@ tableOfContents:
 
 ❏ 報名連結： [https://bit.ly/jsdc2024_ticket](https://bit.ly/jsdc2024_ticket)
 
-## JSDC2024 講者公布 📣📣 - Vivian Yeh
+## JSDC2024 講者公布 📣 - Vivian Yeh
 
 ![Vivian-JSDC2024](https://i.imgur.com/HZExbXQ.png)
 
@@ -32,18 +34,23 @@ tableOfContents:
 
 ### 關於講者 #AI #Frontend #Firebase
 
-Vivian Yeh 是一位擁有獨特背景的軟體工程師，從英文系轉職至科技領域，累積了 3 年的開發經驗。除了技術開發外，她也熱衷於職涯探索與自我成長，同時經營 IG 帳號 @vivian_enlife，分享她的經驗與見解。
+Vivian Yeh 是一位擁有獨特背景的軟體工程師，從英文系轉職至科技領域。在這場講座中，Vivian 將分享她在後端與 AI 服務開發上的豐富經驗，帶你一步步掌握從 Google AI Studio 到 Vertex AI in Firebase 的前端實作。
 
-在 JSDC 2024 中，Vivian 將分享她在 AI 整合開發方面的實戰經驗。演講內容將涵蓋：
+🌟 議程亮點：
 
-- Gemini 模型的優勢
-- Google AI Studio 介紹與實作
-- AI 服務在前端實作的隱憂
-- Vertex AI in Firebase 介紹與實作
-- AI 融入軟體服務時的實作技巧
-- 成本評估自動化工具介紹：Google APP Script
+- Gemini 模型的優勢與特色
+- Google AI Studio 介紹與實作技巧
+- AI 服務在前端實作時的潛在隱憂與解決方案
+- Vertex AI in Firebase 的整合與實作
+- AI 融入軟體服務時的實作技巧與最佳實踐
+- 使用 Google APP Script 進行成本評估自動化
 
-這個議題特別適合想要將 AI 功能整合到前端應用的開發者，以及對 Google AI 服務感興趣的朋友。
+Vivian 更會以自身專注的技術領域為切入點，揭露她在 Firebase Vertex AI 與 Google AI Studio 的實戰心法，幫助你在開發中更有效率地運用 AI 服務！
+
+這個議題特別適合：
+- 想要將 AI 功能整合到前端應用的開發者
+- 對 Google AI 服務感興趣的技術人員
+- 期待了解 AI 服務成本評估的團隊
 
 機會有限，錯過不在。馬上購票行動，到 JSDC 主年會購票。
 

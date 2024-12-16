@@ -32,9 +32,9 @@ tableOfContents:
 
 ### 關於講者 #RemoteWork #Management #TeamManagement
 
-黃冠融是一名軟體工程師與技術顧問，現任 The Octalysis Group 軟體顧問以及 Octalysis Prime 軟體工程師。他於 2015 年 19 歲時就踏入軟體行業，是遊戲化與專案管理領域最年輕的先行者之一。在近四年的實踐後，於 2021 年取得 CSP-SM 資格，並協助過包括 HTC 等多家台灣上市公司。
+黃冠融是軟體工程師與技術顧問，現任 The Octalysis Group 軟體顧問及 Octalysis Prime 平台軟體工程師，專注於運用遊戲化提升用戶參與與企業效益。他自 2015 年 19 歲時踏入軟體行業，迅速成為遊戲化與專案管理領域的先驅之一。在近四年的實踐後，於 2021 年取得 CSP-SM 資格，累積豐富的敏捷實踐與團隊管理經驗。
 
-在 JSDC 2024 中，黃冠融將分享如何有效管理跨時區與跨文化的遠距工作團隊。演講將探討時區差異帶來的溝通挑戰、跨文化理解分歧的處理方式，以及實際案例分享。內容包括時區友好型工作流程設計、協作工具的最佳實踐，以及促進文化融合的策略，為與會者提供實用的管理見解。
+多年來，他協助從初創企業到 HTC 等上市公司實現敏捷轉型，並透過遊戲化設計推動行為改變。在 JSDC 2024 中，黃冠融將分享如何有效管理跨時區與跨文化的遠距工作團隊。演講將從 JavaScript 開發者的角度切入工程開發的管理視角，探討時區差異帶來的溝通挑戰、跨文化理解分歧的處理方式，以及技術與遊戲化的創新融合應用。
 
 機會有限，錯過不在。馬上購票行動，到 JSDC 主年會購票。
 
@@ -58,9 +58,9 @@ tableOfContents:
 
 ### About the Speaker #RemoteWork #Management #TeamManagement
 
-KJH is a software engineer and technical consultant, currently serving as a software consultant at The Octalysis Group and software engineer for Octalysis Prime. He entered the software industry in 2015 at age 19, becoming one of the youngest pioneers in gamification and project management. After nearly four years of practice, he obtained CSP-SM certification in 2021 and has assisted various companies including HTC and other listed companies in Taiwan.
+KJH is a software engineer and technical consultant, currently serving as a software consultant at The Octalysis Group and software engineer for Octalysis Prime, focusing on leveraging gamification to enhance user engagement and business effectiveness. He entered the software industry in 2015 at age 19, quickly becoming one of the pioneers in gamification and project management. After nearly four years of practice, he obtained CSP-SM certification in 2021, accumulating rich experience in agile practices and team management.
 
-At JSDC 2024, KJH will share insights on effectively managing remote teams across different time zones and cultures. The presentation will explore communication challenges caused by time zone differences, handling cross-cultural understanding gaps, and share practical cases. Topics include designing timezone-friendly workflows, best practices for collaboration tools, and strategies for cultural integration, providing attendees with practical management insights.
+Over the years, he has helped companies ranging from startups to listed corporations like HTC achieve agile transformation and drive behavioral changes through gamification design. At JSDC 2024, KJH will share insights on effectively managing remote teams across different time zones and cultures. The presentation will explore management perspectives in engineering development from a JavaScript developer's viewpoint, addressing communication challenges caused by time zone differences, handling cross-cultural understanding gaps, and innovative integration of technology and gamification.
 
 Limited spots available - don't miss out. Get your tickets now for the JSDC main conference.
 

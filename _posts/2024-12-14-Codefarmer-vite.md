@@ -31,11 +31,17 @@ tableOfContents:
 
 ### 關於講者 #Frontend #JavaScript #Vite
 
-Codefarmer 是一位專注於前端開發的工程師，同時也是技術部落格 「codefarmer.tw」的經營者。熱衷於探索與分享最新的前端技術與開發工具，並透過文章讓更多開發者了解新興技術。
+Codefarmer 是一位專注於前端開發的工程師，同時也是技術部落格 「codefarmer.tw」的經營者。這位熱愛技術分享的 webdev 小碼農熱衷於探索與分享最新的前端技術與開發工具，並透過文章讓更多開發者了解新興技術。
 
-在 JSDC 2024 中，Codefarmer 將深入探討 ViteConf 2024 中由 Vue 及 Vite 作者尤雨溪宣布的新公司 VoidZero，以及其規劃的開源 JavaScript 開發工具鏈。從 Vite、Vitest、Rolldown 到 Oxc，帶領大家了解這套完整的開發工具如何革新現有的開發流程，以及對未來前端開發的影響。這個議題特別適合想了解最新 JavaScript 工具發展的開發者參與。
+JavaScript 的生態系正在悄悄發生變革，在 JSDC 2024 中，Codefarmer 將帶來「一起探索 VoidZero：JS 生態系的下一把瑞士刀」的精彩議程。他將深入探討 ViteConf 2024 中由 Vue 及 Vite 作者尤雨溪宣布的新公司 VoidZero，以及其規劃的開源 JavaScript 開發工具鏈。
 
-機會有限，錯過不在。馬上購票行動，到 JSDC 主年會購票。
+🌟 這場分享將帶你了解：
+
+- **VoidZero 工具鏈的整合之道**：如何將 Vite、Vitest、Rollup、Oxc 等工具無縫結合，打造一套高效且通用的開發工具組，包括建構工具 (build tool)、測試框架 (test runner)、打包工具 (bundler)、與程式碼檢查工具 (linter)，全面提升開發者體驗
+- **深入探索新興工具**：以淺入深的方式，帶你了解這些工具的核心功能及最佳應用場景，發掘它們在實際專案中的效率提升秘訣
+- **洞見 VoidZero 的未來影響力**：剖析 VoidZero 對 JavaScript 生態系的影響與潛力
+
+這個議題特別適合想了解最新 JavaScript 工具發展的開發者參與。機會有限，錯過不在。馬上購票行動，到 JSDC 主年會購票。
 
 ---
 
