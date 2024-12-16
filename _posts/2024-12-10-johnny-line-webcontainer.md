@@ -33,12 +33,9 @@ tableOfContents:
 
 Johnny 現為 LINE Taiwan 的 Central Dev / UIT 團隊軟體工程師，擁有 6 年前端開發經驗。曾在 Garena Taiwan 的 Revenue 團隊開發各種動畫效果與遊戲官網。專注於系統架構建立、開發與維護，熱衷學習新技術。
 
-在 JSDC 2024 中，Johnny 將深入探討 Web Containers 技術的應用。從基礎概念到實際應用，包括：
-- Web Containers 的本質與優勢
-- 實際應用場景與使用方法
-- 實機展示
-- 與 Docker/VM 的比較分析
-- 技術展望與結論
+在 JSDC 2024 中，Johnny 將深入探討 Web Containers 技術的應用。
+
+WebContainers 是由 StackBlitz 推出的技術，旨在將完整的 Node.js 環境嵌入到瀏覽器中，實現純瀏覽器端的即時編程體驗。它利用 WebAssembly 和現代瀏覽器 API，支持執行 npm 模組、文件系統操作和完整的開發工具，無需伺服器或本地安裝，即可實現即時、完全隔離的開發環境。
 
 機會有限，錯過不在。馬上購票行動，到 JSDC 主年會購票。
 
@@ -64,12 +61,9 @@ Johnny 現為 LINE Taiwan 的 Central Dev / UIT 團隊軟體工程師，擁有 6
 
 Johnny is a software engineer at LINE Taiwan's Central Dev / UIT team with 6 years of frontend development experience. Previously at Garena Taiwan's Revenue team, he specialized in animation effects and game website development. He focuses on system architecture, development, and maintenance while actively pursuing new technologies.
 
-At JSDC 2024, he will explore Web Containers technology in depth, covering:
-- The essence and advantages of Web Containers
-- Practical applications and implementation methods
-- Live demonstrations
-- Comparison with Docker/VM
-- Technical outlook and conclusions
+At JSDC 2024, he will explore Web Containers technology in depth.
+
+WebContainers, developed by StackBlitz, enable a full Node.js environment to run directly in the browser. Utilizing WebAssembly and modern browser APIs, it allows developers to execute npm modules, perform filesystem operations, and use complete development tools without requiring a server or local installation. This provides an instant, fully isolated development environment entirely within the browser.
 
 Limited spots available - don't miss out. Get your tickets now for the JSDC main conference.
 
